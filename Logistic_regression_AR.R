@@ -1,5 +1,10 @@
 ### Logistic regresion - metadata ###
+========================================
+#Creator: Paula Sura
 
+#Year: 2016
+
+```
 #Script to perform logistic regression test
 #Steps:
 #1.Metadata quality control: replace NA for median values and remove columns with only one level
