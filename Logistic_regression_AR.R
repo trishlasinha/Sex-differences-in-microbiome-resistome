@@ -4,8 +4,10 @@
 
 #Year: 2016
 
+1. Script to perform logistic regression test
+-------------------------------------------------------------------------
+
 ```
-#Script to perform logistic regression test
 #Steps:
 #1.Metadata quality control: replace NA for median values and remove columns with only one level
 #2.Convert taxonomy table into presence/absence taxonomy table (0,1)
@@ -48,6 +50,10 @@
 #tax2              125                230              10                91             age         1.3           0.003             0.01            model2
 #tax3              335                 20              69                32             age        -0.79          0.00004           0.0009          model2
 
+2. Logistic regression 
+-------------------------------------------------------------------------
+
+```
 
 logistic_regression <- function(metadata_input, taxonomy_table, column_number) {
   
@@ -444,8 +450,10 @@ logistic_regression <- function(metadata_input, taxonomy_table, column_number) {
   }  
 }
 
+3. Antibioitc classes 
+ -------------------------------------------------------------------------
 
-# Classes 
+```
 meta.data<-all
 all<-read.delim("RC_Sex_Age_AB_IBS_1122", row.names = 1, header = T, sep = "\t")
 meta.data<-all
@@ -471,7 +479,8 @@ Male<-Male[,c(3,1:2)]
 logistic_regression(Female,ClassFem, 1)
 
 
-# Mechanims
+4. Antibioic meachanisms
+ -------------------------------------------------------------                                          
 
 all<-read.delim("RC_Sex_Age_AB_IBS_1122", row.names = 1, header = T, sep = "\t")
 names(all) [1]<-"Sex"
@@ -496,8 +505,8 @@ Male<-Male[,c(3,1:2)]
 logistic_regression(Male,mechMal, 1)
 
 
-
-# AR
+5. CARD data 
+ -----------------------------------------------------------                                          
 
 all<-read.delim("RC_Sex_Age_AB_IBS_1122", row.names = 1, header = T, sep = "\t")
 names(all) [1]<-"Sex"
