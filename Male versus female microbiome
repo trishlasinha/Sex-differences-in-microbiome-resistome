@@ -1,18 +1,18 @@
-# Male versus female microbiome 
+#Male versus female microbiome 
 
 
-# Importing Taxa file 
+#Importing Taxa file 
 taxa<-read.delim("Taxa_filterd_present_more_than_5%", row.names = 1, header = T, sep = "\t")
 
-# Importing Pathways file
+#Importing Pathways file
 
 path<-read.delim("Pathways_filterd_present_more_than_5%", row.names = 1, header = T, sep = "\t")
 
-# Importing Phenotypes file
+#Importing Phenotypes file
 phenos <- read.delim("all_phenotpes_imputed_TS", header=T, row.names=1)
 
 
-# Loading all the packages 
+#Loading all the packages 
 library(vegan)
 library(foreach)
 library(doMC)
