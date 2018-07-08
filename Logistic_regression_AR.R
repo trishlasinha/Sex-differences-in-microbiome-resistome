@@ -1,8 +1,8 @@
-### Logistic regresion - metadata ###
+#Logistic regresion - metadata 
 ========================================
-#Creator: Paula Sura
+##Creator: Paula Sura
 
-#Year: 2016
+##Year: 2016
 
 1. Script to perform logistic regression test
 -------------------------------------------------------------------------
