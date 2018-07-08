@@ -1,7 +1,7 @@
-#Male versus female microbiome 
+** Male versus female microbiome **
 
 
-#Importing Taxa file 
+** Importing Taxa file **
 taxa<-read.delim("Taxa_filterd_present_more_than_5%", row.names = 1, header = T, sep = "\t")
 
 #Importing Pathways file
