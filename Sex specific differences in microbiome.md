@@ -12,20 +12,21 @@ Aim:
 Vegan to detect sex differences
 -------------
 
-**Importing Taxa file **
+#Importing Taxa file
+
 ```
 taxa<-read.delim("Taxa_filterd_present_more_than_5%", row.names = 1, header = T, sep = "\t")
 ```
-** Importing Pathways file **
+#Importing Pathways file
 ```
 path<-read.delim("Pathways_filterd_present_more_than_5%", row.names = 1, header = T, sep = "\t")
 ```
-** Importing Phenotypes file **
+#Importing Phenotypes file
 ```
 phenos <- read.delim("all_phenotpes_imputed_TS", header=T, row.names=1)
 ```
 
-**Loading all the required packages **
+#Loading all the required packages
 ```
 library(vegan)
 library(foreach)
@@ -34,7 +35,7 @@ library(reshape2)
 registerDoMC(2)
 ```
 
-**Naming files **
+#Naming files
 ```
 # Taxa 
 meta.data=taxa
@@ -48,7 +49,7 @@ meta.data=taxa
 # Making a distance matrix 
 #dist.matrix <- vegdist(meta.data,method = "bray")
 ```
-**1.B diversity: Adonis test **
+**1.B diversity: Adonis test**
 ```
 adon<-foreach(i=1:ncol(phenotypes),.combine=rbind)%do%{
   
@@ -66,7 +67,7 @@ phenossig<-intersect(row.names(onlysigpheno), names(phenos))
 phenos3<-phenos[,phenossig]
 phenos2<-phenos3
 ```
-**Spearman's correlation between phenotypes **
+#Spearman's correlation between phenotypes
 ```
 spearman <- function(x,y) {
   matchID <- intersect(rownames(x), rownames(y))
@@ -105,7 +106,7 @@ sig<-P[P$FDR<0.05,]
 sig1<-sig[complete.cases(sig),]
 trial<-sig1[sig1$CorCoefficient>0.8,]
 ```
-**Removing all the factors with a strong correlation with each other (>0.8) **
+#Removing all the factors with a strong correlation with each other (>0.8)
 ```
 phenos2$how_often_tea=NULL
 phenos2$protein.total_log=NULL
@@ -120,7 +121,7 @@ phenos2$how_often_soda=NULL
 
 ```
 
-**2. a)  Maaslin for species **
+**2. a)  Maaslin for species**
 
 ```
 library(Maaslin)
@@ -129,27 +130,27 @@ my_input<-merge(phenos, taxa, by="row.names")
 colnames(my_input)[1] <- "SID"
 ```
 
-**Important to do this as a tsv file **
+#Important to do this as a tsv file
 ```
 write.table(my_input, "Phenotypes_for Maaslin.tsv", sep = "\t", quote = F, row.names = F)
 names(my_input) # to get the name of the first species 
 
 ```
 
-**Open text editor and make output file "input.read.config"**
+#Open text editor and make output file "input.read.config"
 
 MaAsLin requires the tsv/csv file, the name of the output file in which MaAsLin puts all the results, and the R-script which says which columns/rows he should analyze (i.e. file.read.config). Furthermore, I forced a zero inflated model (fZeroInlfated = T) and force correction of phenotypes.
 
-**Univariate Maaslin analysis **
+#Univariate Maaslin analysis
 ```
 Maaslin("Phenotypes_for Maaslin.tsv", "Males_versus_female_Force_Read_Depth_Age", strInputConfig = "INPUT_input.read.config", strForcedPredictors = c("RD","antrop_age"),fAllvAll = T, dSignificanceLevel = 0.05)
 ```
-**Multivariate Maaslin analysis **
+#Multivariate Maaslin analysis
 ```
 Maaslin("Phenotypes_for Maaslin.tsv", "Males_versus_female_Force_Read_Depth_Age", strInputConfig = "INPUT_input.read.config", strForcedPredictors = c("RD","antrop_age"),fAllvAll = T, dSignificanceLevel = 0.05)
 ```
 
-**2. b)Maaslin for pathways **
+**2. b)Maaslin for pathways**
 
 ```
 Path <- read.delim("Pathways_filterd_present_more_than_5%",sep="\t", header=T, row.names = 1)
@@ -161,13 +162,13 @@ names(my_input)
 # Important to do this as a tsv file
 write.table(my_input, "Pathway_input.tsv", sep = "\t", quote = F, row.names = F)
 ```
-**Open text editor and make output file "input.read.config **
+#Open text editor and make output file "input.read.config
 
-**Univariate Maaslin analysis **
+#Univariate Maaslin analysis
 ```
 Maaslin("Pathway_input.tsv", "Pathway_Males_versus_females_force_RD_Age", strInputConfig = "INPUT_input.read.config", strForcedPredictors = c("RD", "antrop_age"), fAllvAll = T,dSignificanceLevel = 0.05)
 ```
-**Multivariate Maaslin analysis **
+#Multivariate Maaslin analysis
 ```
 Maaslin("Pathway_input.tsv", "Pathway_Males_versus_females_force_RD_Age", strInputConfig = "INPUT_input.read.config", strForcedPredictors = c("RD", "antrop_age"), fAllvAll = T,dSignificanceLevel = 0.05)
 ```
