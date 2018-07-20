@@ -49,7 +49,7 @@ meta.data=taxa
 # Making a distance matrix 
 #dist.matrix <- vegdist(meta.data,method = "bray")
 ```
-**1.B diversity: Adonis test**
+**1 a) Beta diversity: Adonis test**
 ```
 adon<-foreach(i=1:ncol(phenotypes),.combine=rbind)%do%{
   
@@ -119,6 +119,18 @@ phenos2$fat.total_log=NULL
 phenos2$how_often_muesli=NULL
 phenos2$how_often_soda=NULL
 
+```
+**1 b) Alpha diversity**
+```
+alpha<-diversity(taxa, index = "shannon")
+library(stats)
+phenos$Shannon<-alpha
+names(phenos2)
+IQR(phenos$Shannon)
+quantile(phenos$Shannon) # remove outliers greater then Q3+(IQRx3) and smaller than (Q1-(IQRx3)) # In my case only removed those with a value less than (Q1-(IQRx3)
+phenos2 <- phenos[ which(phenos$Shannon > 1.51), ]
+WRSLLD <- wilcox.test(phenos2$Shannon ~ phenos2$antrop_gender.F1M2, conf.int=TRUE)
+WRSLLD
 ```
 
 **2. a)  Maaslin for species**
