@@ -20,5 +20,10 @@ random2<-as.data.frame(randomsel(femaleibs,24))
 random3<-as.data.frame(randomsel(femaleibs,24))
 random4<-as.data.frame(randomsel(femaleibs,24))
 random5<-as.data.frame(randomsel(femaleibs,24))
+random6<-as.data.frame(randomsel(femaleibs,24))
+random7<-as.data.frame(randomsel(femaleibs,24))
+random8<-as.data.frame(randomsel(femaleibs,24))
+random9<-as.data.frame(randomsel(femaleibs,24))
+random10<-as.data.frame(randomsel(femaleibs,24))
 ```
 
