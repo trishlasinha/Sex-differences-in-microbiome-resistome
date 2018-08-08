@@ -164,11 +164,11 @@ MaAsLin requires the tsv/csv file, the name of the output file in which MaAsLin 
 
 #Univariable Maaslin analysis
 ```
-Maaslin("Phenotypes_for Maaslin.tsv", "Males_versus_female_Force_Read_Depth_Age", strInputConfig = "INPUT_input.read.config",fAllvAll = T, dSignificanceLevel = 0.05)
+Maaslin("Phenotypes_for Maaslin.tsv", "Univariable_Males_versus_female", strInputConfig = "INPUT_input.read.config",fAllvAll = T, dSignificanceLevel = 0.05)
 ```
 #Multivariable Maaslin analysis
 ```
-Maaslin("Phenotypes_for Maaslin.tsv", "Males_versus_female_Force_Read_Depth_Age", strInputConfig = "INPUT_input.read.config", strForcedPredictors = c("RD","antrop_age"),fAllvAll = F, dSignificanceLevel = 0.05)
+Maaslin("Phenotypes_for Maaslin.tsv", "Multivariable_Males_versus_female_", strInputConfig = "INPUT_input.read.config",,fAllvAll = F, dSignificanceLevel = 0.05)
 ```
 
 **2. b)Maaslin for pathways**
