@@ -49,7 +49,7 @@
 #tax1               57                298               2                99             age         0.09          0.0001            0.002           model1
 #tax2              125                230              10                91             age         1.3           0.003             0.01            model2
 #tax3              335                 20              69                32             age        -0.79          0.00004           0.0009          model2
-
+```
 2. Logistic regression 
 -------------------------------------------------------------------------
 
@@ -450,6 +450,7 @@ logistic_regression <- function(metadata_input, taxonomy_table, column_number) {
   }  
 }
 
+```
 3. Antibioitc classes 
  -------------------------------------------------------------------------
 
@@ -478,10 +479,10 @@ Male<-Male[,c(3,1:2)]
 
 logistic_regression(Female,ClassFem, 1)
 
-
+```
 4. Antibioic meachanisms
  -------------------------------------------------------------                                          
-
+```
 all<-read.delim("RC_Sex_Age_AB_IBS_1122", row.names = 1, header = T, sep = "\t")
 names(all) [1]<-"Sex"
 mech<-read.delim("Mechanisms_1122_filtered_present_more_than_5%_Sep_2017_ab_removed", row.names = 1, header = T, sep = "\t")
@@ -503,11 +504,11 @@ Male$ab=NULL
 Male<-Male[,c(3,1:2)]
 
 logistic_regression(Male,mechMal, 1)
-
+```
 
 5. CARD data 
  -----------------------------------------------------------                                          
-
+```
 all<-read.delim("RC_Sex_Age_AB_IBS_1122", row.names = 1, header = T, sep = "\t")
 names(all) [1]<-"Sex"
 AR<-read.delim("AR_filtered_5%_1122", row.names = 1, header = T, sep = "\t")
@@ -529,4 +530,4 @@ Male$ab=NULL
 Male<-Male[,c(3,1:2)]
 
 logistic_regression(Male,ARMal, 1)
-
+```
