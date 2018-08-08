@@ -121,6 +121,14 @@ phenos2$how_often_alcohol=NULL
 phenos2$how_often_soda=NULL
 
 ```
+#Finally deriving the file that shows the influence of all the signigicant factors to be used for correction in Maaslin on the Bray-Curtis distance
+```
+write.table(phenos2, "Phenotypes_84_factors_removing_11_highly_correlated_0.8_including_sex ", sep="\t", quote = F, row.names = T)
+adosissup1<-intersect(row.names(onlysigpheno), names(phenos2))
+adosissup2<-onlysigpheno[adosissup1,]
+write.table(adosissup2, "84_factors_influencing_Bray_Curtis_Distance_1135_after_removing_11_highly_correlated_0.8_including_sex ", sep="\t", quote = F, row.names = T)
+
+```
 **1 b) Alpha diversity**
 ```
 alpha<-diversity(taxa, index = "shannon")
