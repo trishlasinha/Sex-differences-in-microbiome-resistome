@@ -106,17 +106,18 @@ sig<-P[P$FDR<0.05,]
 sig1<-sig[complete.cases(sig),]
 trial<-sig1[sig1$CorCoefficient>0.8,]
 ```
-#Removing all the factors with a strong correlation with each other (>0.8)
+#Removing one pair of the factors displaying strong correlation with each other (>0.8)(factor removed chosen at random)
 ```
-phenos2$how_often_tea=NULL
-phenos2$protein.total_log=NULL
 phenos2$protein.plant_log=NULL
-phenos2$how_often_alcohol=NULL
+phenos2$protein.total_log=NULL
+phenos2$protein.animal_log=NULL
 phenos2$BlCells_Granulo_log=NULL
 phenos2$how_often_pasta=NULL
 phenos2$how_often_rice=NULL
+phenos2$carbohydrates.total_log=NULL
 phenos2$fat.total_log=NULL
 phenos2$how_often_muesli=NULL
+phenos2$how_often_alcohol=NULL
 phenos2$how_often_soda=NULL
 
 ```
