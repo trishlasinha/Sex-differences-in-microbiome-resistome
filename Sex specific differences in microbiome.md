@@ -162,13 +162,13 @@ names(my_input) # to get the name of the first species
 
 MaAsLin requires the tsv/csv file, the name of the output file in which MaAsLin puts all the results, and the R-script which says which columns/rows he should analyze (i.e. file.read.config). Furthermore, I forced a zero inflated model (fZeroInlfated = T) and force correction of phenotypes.
 
-#Univariate Maaslin analysis
+#Univariable Maaslin analysis
 ```
 Maaslin("Phenotypes_for Maaslin.tsv", "Males_versus_female_Force_Read_Depth_Age", strInputConfig = "INPUT_input.read.config", strForcedPredictors = c("RD","antrop_age"),fAllvAll = T, dSignificanceLevel = 0.05)
 ```
-#Multivariate Maaslin analysis
+#Multivariable Maaslin analysis
 ```
-Maaslin("Phenotypes_for Maaslin.tsv", "Males_versus_female_Force_Read_Depth_Age", strInputConfig = "INPUT_input.read.config", strForcedPredictors = c("RD","antrop_age"),fAllvAll = T, dSignificanceLevel = 0.05)
+Maaslin("Phenotypes_for Maaslin.tsv", "Males_versus_female_Force_Read_Depth_Age", strInputConfig = "INPUT_input.read.config", strForcedPredictors = c("RD","antrop_age"),fAllvAll = F, dSignificanceLevel = 0.05)
 ```
 
 **2. b)Maaslin for pathways**
@@ -185,13 +185,13 @@ write.table(my_input, "Pathway_input.tsv", sep = "\t", quote = F, row.names = F)
 ```
 #Open text editor and make output file "input.read.config
 
-#Univariate Maaslin analysis
+#Univariable Maaslin analysis
 ```
 Maaslin("Pathway_input.tsv", "Pathway_Males_versus_females_force_RD_Age", strInputConfig = "INPUT_input.read.config", strForcedPredictors = c("RD", "antrop_age"), fAllvAll = T,dSignificanceLevel = 0.05)
 ```
-#Multivariate Maaslin analysis
+#Multivariable Maaslin analysis
 ```
-Maaslin("Pathway_input.tsv", "Pathway_Males_versus_females_force_RD_Age", strInputConfig = "INPUT_input.read.config", strForcedPredictors = c("RD", "antrop_age"), fAllvAll = T,dSignificanceLevel = 0.05)
+Maaslin("Pathway_input.tsv", "Pathway_Males_versus_females_force_RD_Age", strInputConfig = "INPUT_input.read.config", strForcedPredictors = c("RD", "antrop_age"), fAllvAll = F,dSignificanceLevel = 0.05)
 ```
 
 
