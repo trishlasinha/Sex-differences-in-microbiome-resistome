@@ -187,11 +187,11 @@ write.table(my_input, "Pathway_input.tsv", sep = "\t", quote = F, row.names = F)
 
 #Univariable Maaslin analysis
 ```
-Maaslin("Pathway_input.tsv", "Pathway_Males_versus_females_force_RD_Age", strInputConfig = "INPUT_input.read.config", strForcedPredictors = c("RD", "antrop_age"), fAllvAll = T,dSignificanceLevel = 0.05)
+Maaslin("Pathway_input.tsv", "Pathway_Males_versus_females_force_RD_Age", strInputConfig = "INPUT_input.read.config")
 ```
 #Multivariable Maaslin analysis
 ```
-Maaslin("Pathway_input.tsv", "Pathway_Males_versus_females_force_RD_Age", strInputConfig = "INPUT_input.read.config", strForcedPredictors = c("RD", "antrop_age"), fAllvAll = F,dSignificanceLevel = 0.05)
+Maaslin("Pathway_input.tsv", "Pathway_Males_versus_females_force_RD_Age", strInputConfig = "INPUT_input.read.config")
 ```
 
 
