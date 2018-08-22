@@ -1,0 +1,899 @@
+	Protein.Accession	ARO.Accession	Model.Name	ARO.Name	AMR.Gene.Family	Drug.Class	Resistance.Mechanism
+1	AAA03550.1	ARO:3002523	AAC(2)-Ia	AAC(2)-Ia	AAC(2)	aminoglycoside antibiotic	antibiotic inactivation
+2	AAA16194.1	ARO:3002540	AAC(3)-VIa	AAC(3)-VIa	AAC(3)	aminoglycoside antibiotic	antibiotic inactivation
+3	AAA16529.1	ARO:3002670	cat	cat	chloramphenicol acetyltransferase (CAT)	phenicol antibiotic	antibiotic inactivation
+4	AAA19882.1	ARO:3003562	blaF	blaF	blaF family beta-lactamase	penam	antibiotic inactivation
+5	AAA20116.1	ARO:3000180	tetA(P)	tetA(P)	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+6	AAA20117.1	ARO:3000195	tetB(P)	tetB(P)	tetracycline-resistant ribosomal protection protein	tetracycline antibiotic	antibiotic target protection
+7	AAA21532.1	ARO:3003559	cepA beta-lactamase	cepA	cepA beta-lactamase	cephalosporin	antibiotic inactivation
+8	AAA21889.1	ARO:3002554	AAC(6)-Ig	AAC(6)-Ig	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+9	AAA22081.1	ARO:3002670	cat	cat	chloramphenicol acetyltransferase (CAT)	phenicol antibiotic	antibiotic inactivation
+10	AAA22277.1	ARO:3003007	bmr	bmr	major facilitator superfamily (MFS) antibiotic efflux pump	fluoroquinolone antibiotic;nucleoside antibiotic;acridine dye;phenicol antibiotic	antibiotic efflux
+11	AAA22289.1	ARO:3002672	cat86	cat86	chloramphenicol acetyltransferase (CAT)	phenicol antibiotic	antibiotic inactivation
+12	AAA22562.1	ARO:3002878	BcII	BcII	Bc beta-lactamase	cephalosporin;penam	antibiotic inactivation
+13	AAA22597.1	ARO:3000495	ErmD	ErmD	Erm 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic	antibiotic target alteration
+14	AAA22851.1	ARO:3000179	tet(L)	tet(L)	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+15	AAA22904.1	ARO:3000578	CcrA beta-lactamase	CcrA	CcrA beta-lactamase	carbapenem	antibiotic inactivation
+16	AAA23018.1	ARO:3002670	cat	cat	chloramphenicol acetyltransferase (CAT)	phenicol antibiotic	antibiotic inactivation
+17	AAA23033.2	ARO:3000190	tetO	tetO	tetracycline-resistant ribosomal protection protein	tetracycline antibiotic	antibiotic target protection
+18	AAA23215.1	ARO:3002687	catQ	catQ	chloramphenicol acetyltransferase (CAT)	phenicol antibiotic	antibiotic inactivation
+19	AAA24786.1	ARO:3000368	vanC	vanC	glycopeptide resistance gene cluster;van ligase	glycopeptide antibiotic	antibiotic target alteration
+20	AAA25293.1	ARO:3000192	tetS	tetS	tetracycline-resistant ribosomal protection protein	tetracycline antibiotic	antibiotic target protection
+21	AAA25334.1	ARO:3002543	AAC(3)-IXa	AAC(3)-IXa	AAC(3)	aminoglycoside antibiotic	antibiotic inactivation
+22	AAA25550.1	ARO:3003105	dfrA3	dfrA3	trimethoprim resistant dihydrofolate reductase dfr	diaminopyrimidine antibiotic	antibiotic target replacement
+23	AAA25655.1	ARO:3002670	cat	cat	chloramphenicol acetyltransferase (CAT)	phenicol antibiotic	antibiotic inactivation
+24	AAA25680.1	ARO:3002595	AAC(6)-IIb	AAC(6)-IIb	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+25	AAA25683.1	ARO:3002538	AAC(3)-IIIc	AAC(3)-IIIc	AAC(3)	aminoglycoside antibiotic	antibiotic inactivation
+26	AAA25717.1	ARO:3002624	ANT(4)-IIa	ANT(4)-IIa	ANT(4)	aminoglycoside antibiotic	antibiotic inactivation
+27	AAA26412.1	ARO:3002642	APH(3)-Ib	APH(3)-Ib	APH(3)	aminoglycoside antibiotic	antibiotic inactivation
+28	AAA26548.1	ARO:3002534	AAC(3)-IIb	AAC(3)-IIb	AAC(3)	aminoglycoside antibiotic	antibiotic inactivation
+29	AAA26549.1	ARO:3002549	AAC(6)-Ic	AAC(6)-Ic	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+30	AAA26613.1	ARO:3002670	cat	cat	chloramphenicol acetyltransferase (CAT)	phenicol antibiotic	antibiotic inactivation
+31	AAA26615.1	ARO:3002670	cat	cat	chloramphenicol acetyltransferase (CAT)	phenicol antibiotic	antibiotic inactivation
+32	AAA26683.1	ARO:3002840	vatA	vatA	streptogramin vat acetyltransferase	streptogramin antibiotic	antibiotic inactivation
+33	AAA26685.1	ARO:3002542	AAC(3)-VIIIa	AAC(3)-VIIIa	AAC(3)	aminoglycoside antibiotic	antibiotic inactivation
+34	AAA26699.1	ARO:3002649	APH(3)-Va	APH(3)-Va	APH(3)	aminoglycoside antibiotic	antibiotic inactivation
+35	AAA26742.1	ARO:3001304	ErmS	ErmS	Erm 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic	antibiotic target alteration
+36	AAA26775.1	ARO:3003564	EXO beta-lactamase	EXO-1	EXO beta-lactamase	penam	antibiotic inactivation
+37	AAA26793	ARO:3003748	oleC	oleC	ATP-binding cassette (ABC) antibiotic efflux pump	macrolide antibiotic	antibiotic efflux
+38	AAA26832.1	ARO:3002827	tlrC	tlrC	ATP-binding cassette (ABC) antibiotic efflux pump	macrolide antibiotic	antibiotic efflux
+39	AAA27471.1	ARO:3000205	tetX	tetX	tetracycline inactivation enzyme	glycylcycline;tetracycline antibiotic	antibiotic inactivation
+40	AAA50325.1	ARO:3003036	oleB	oleB	ATP-binding cassette (ABC) antibiotic efflux pump	macrolide antibiotic	antibiotic efflux
+41	AAA65953.1	ARO:3002919	vanRA	vanRA	glycopeptide resistance gene cluster;vanR	glycopeptide antibiotic	antibiotic target alteration
+42	AAA65954.1	ARO:3002931	vanSA	vanSA	vanS;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+43	AAA65955.1	ARO:3002942	vanHA	vanHA	vanH;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+44	AAA65956.1	ARO:3000010	vanA	vanA	glycopeptide resistance gene cluster;van ligase	glycopeptide antibiotic	antibiotic target alteration
+45	AAA65957.1	ARO:3002949	vanXA	vanXA	vanX;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+46	AAA65958.1	ARO:3002955	vanYA	vanYA	vanY;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+47	AAA65959.1	ARO:3002962	vanZA	vanZA	vanZ;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+48	AAA67509.1	ARO:3003554	tcmA	tcmA	major facilitator superfamily (MFS) antibiotic efflux pump	major facilitator superfamily (MFS) antibiotic efflux pump	antibiotic efflux
+49	AAA71915.1	ARO:3000173	tet(E)	tet(E)	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+50	AAA73865.1	ARO:3002674	catB	catB	chloramphenicol acetyltransferase (CAT)	phenicol antibiotic	antibiotic inactivation
+51	AAA74437.1	ARO:3000378	MexB	MexB	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;monobactam;carbapenem;cephalosporin;cephamycin;penam;tetracycline antibiotic;peptide antibiotic;aminocoumarin antibiotic;diaminopyrimidine antibiotic;sulfonamide antibiotic;phenicol antibiotic;penem	antibiotic efflux
+52	AAA76822.1	ARO:3002654	APH(3)-VIIa	APH(3)-VIIa	APH(3)	aminoglycoside antibiotic	antibiotic inactivation
+53	AAA83417.1	ARO:3001407	OXA-12	OXA-12	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+54	AAA85213.1	ARO:3002866	dfrD	dfrD	trimethoprim resistant dihydrofolate reductase dfr	diaminopyrimidine antibiotic	antibiotic target replacement
+55	AAA86871.1	ARO:3002841	vatB	vatB	streptogramin vat acetyltransferase	streptogramin antibiotic	antibiotic inactivation
+56	AAA87229.1	ARO:3002558	AAC(6)-Ik	AAC(6)-Ik	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+57	AAA88552.1	ARO:3002541	AAC(3)-VIIa	AAC(3)-VIIa	AAC(3)	aminoglycoside antibiotic	antibiotic inactivation
+58	AAA88675.1	ARO:3000498	ErmF	ErmF	Erm 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic	antibiotic target alteration
+59	AAA98096.1	ARO:3000595	ErmT	ErmT	Erm 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic	antibiotic target alteration
+60	AAA98296.1	ARO:3000250	ErmC	ErmC	Erm 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic	antibiotic target alteration
+61	AAA98298.1	ARO:3002545	AAC(6)-Ia	AAC(6)-Ia	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+62	AAA98349.1	ARO:3001307	VgbA	vgbA	streptogramin vgb lyase	streptogramin antibiotic	antibiotic inactivation
+63	AAA98406.1	ARO:3001404	OXA-9	OXA-9	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+64	AAA99503.1	ARO:3003250	bcrC	bcrC	undecaprenyl pyrophosphate related proteins	peptide antibiotic	antibiotic target alteration
+65	AAA99504.1	ARO:3002987	bcrA	bcrA	ATP-binding cassette (ABC) antibiotic efflux pump	peptide antibiotic	antibiotic efflux
+66	AAA99505.1	ARO:3002988	bcrB	bcrB	ATP-binding cassette (ABC) antibiotic efflux pump	peptide antibiotic	antibiotic efflux
+67	AAA99931.1	ARO:3003060	tsnR	tsnR	non-erm 23S ribosomal RNA methyltransferase (A1067)	peptide antibiotic	antibiotic target alteration
+68	AAB05622.1	ARO:3002921	vanRB	vanRB	glycopeptide resistance gene cluster;vanR	glycopeptide antibiotic	antibiotic target alteration
+69	AAB05623.1	ARO:3002932	vanSB	vanSB	vanS;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+70	AAB05624.1	ARO:3002956	vanYB	vanYB	vanY;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+71	AAB05625.1	ARO:3002964	vanWB	vanWB	vanW;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+72	AAB05626.1	ARO:3002943	vanHB	vanHB	vanH;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+73	AAB05628.1	ARO:3002950	vanXB	vanXB	vanX;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+74	AAB19430.2	ARO:3002242	CARB-3	CARB-3	CARB beta-lactamase	penam	antibiotic inactivation
+75	AAB21326.1	ARO:3002651	APH(3)-Vc	APH(3)-Vc	APH(3)	aminoglycoside antibiotic	antibiotic inactivation
+76	AAB23649.1	ARO:3002670	cat	cat	chloramphenicol acetyltransferase (CAT)	phenicol antibiotic	antibiotic inactivation
+77	AAB36568.1	ARO:3002700	cmlv	cmlv	chloramphenicol phosphotransferase	phenicol antibiotic	antibiotic inactivation
+78	AAB41059.1	ARO:3002884	iri	iri	rifampin monooxygenase	rifamycin antibiotic	antibiotic inactivation
+79	AAB41701.1	ARO:3002526	AAC(2)-Id	AAC(2)-Id	AAC(2)	aminoglycoside antibiotic	antibiotic inactivation
+80	AAB41956.1	ARO:3000800	MexC	MexC	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;aminoglycoside antibiotic;cephalosporin;penam;tetracycline antibiotic;aminocoumarin antibiotic;diaminopyrimidine antibiotic;phenicol antibiotic	antibiotic efflux
+81	AAB41957.1	ARO:3000801	MexD	MexD	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;aminoglycoside antibiotic;cephalosporin;penam;tetracycline antibiotic;aminocoumarin antibiotic;diaminopyrimidine antibiotic;phenicol antibiotic	antibiotic efflux
+82	AAB41958.1	ARO:3000802	OprJ	OprJ	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;aminoglycoside antibiotic;cephalosporin;penam;tetracycline antibiotic;aminocoumarin antibiotic;diaminopyrimidine antibiotic;phenicol antibiotic	antibiotic efflux
+83	AAB49832.1	ARO:3002636	APH(2)-IIIa	APH(2)-IIIa	APH(2)	aminoglycoside antibiotic	antibiotic inactivation
+84	AAB51421.1	ARO:3002686	catP	catP	chloramphenicol acetyltransferase (CAT)	phenicol antibiotic	antibiotic inactivation
+85	AAB51440.1	ARO:3002824	ErmV	ErmV	Erm 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic	antibiotic target alteration
+86	AAB53259.1	ARO:3002671	cat-TC	cat-TC	chloramphenicol acetyltransferase (CAT)	phenicol antibiotic	antibiotic inactivation
+87	AAB53445.1	ARO:3002897	SAT-4	SAT-4	streptothricin acetyltransferase (SAT)	nucleoside antibiotic	antibiotic inactivation
+88	AAB57788.1	ARO:3000464	Neisseria gonorrhoeae mutant porin PIB (por) with reduced permeability to antibiotic	Neisseria gonorrhoeae porin PIB (por)	General Bacterial Porin with reduced permeability to beta-lactams	monobactam;carbapenem;cephalosporin;cephamycin;penam;tetracycline antibiotic;penem	reduced permeability to antibiotic
+89	AAB58160.1	ARO:3003009	ceoA	ceoA	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;aminoglycoside antibiotic	antibiotic efflux
+90	AAB58161.1	ARO:3003010	ceoB	ceoB	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;aminoglycoside antibiotic	antibiotic efflux
+91	AAB58447.1	ARO:3002662	APH(9)-Ia	APH(9)-Ia	APH(9)	aminoglycoside antibiotic	antibiotic inactivation
+92	AAB58555.1	ARO:3001413	OXA-18	OXA-18	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+93	AAB63533.1	ARO:3002556	AAC(6)-Ii	AAC(6)-Ii	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+94	AAB66655.1	ARO:3002663	APH(9)-Ib	APH(9)-Ib	APH(9)	aminoglycoside antibiotic	antibiotic inactivation
+95	AAB84282.1	ARO:3000181	tet(V)	tet(V)	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+96	AAB95639.1	ARO:3000118	vgaB	vgaB	ATP-binding cassette (ABC) antibiotic efflux pump	streptogramin antibiotic;pleuromutilin antibiotic	antibiotic efflux
+97	AAC05822.1	ARO:3002846	arr-1	arr-1	rifampin ADP-ribosyltransferase (Arr)	rifamycin antibiotic	antibiotic inactivation
+98	AAC09015.1	ARO:3002481	AER-1	AER-1	AER beta-lactamase	penam	antibiotic inactivation
+99	AAC23556.1	ARO:3002660	APH(6)-Id	APH(6)-Id	APH(6)	aminoglycoside antibiotic	antibiotic inactivation
+100	AAC25500.1	ARO:3002560	AAC(6)-Iq	AAC(6)-Iq	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+101	AAC32025.1	ARO:3002650	APH(3)-Vb	APH(3)-Vb	APH(3)	aminoglycoside antibiotic	antibiotic inactivation
+102	AAC32026.1	ARO:3002823	ErmH	ErmH	Erm 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic	antibiotic target alteration
+103	AAC32027.1	ARO:3002817	carA	carA	ATP-binding cassette (ABC) antibiotic efflux pump	macrolide antibiotic	antibiotic efflux
+104	AAC36915.1	ARO:3000593	ErmQ	ErmQ	Erm 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic	antibiotic target alteration
+105	AAC36944.1	ARO:3003006	blt	blt	major facilitator superfamily (MFS) antibiotic efflux pump	fluoroquinolone antibiotic;acridine dye	antibiotic efflux
+106	AAC37034.1	ARO:3000522	ErmG	ErmG	Erm 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic	antibiotic target alteration
+107	AAC41392.1	ARO:3002557	AAC(6)-Ij	AAC(6)-Ij	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+108	AAC41449.1	ARO:3001398	OXA-3	OXA-3	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+109	AAC43550.1	ARO:3003967	lrfA	lrfA	major facilitator superfamily (MFS) antibiotic efflux pump	fluoroquinolone antibiotic	antibiotic efflux
+110	AAC43969.1	ARO:3003037	opcM	opcM	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;aminoglycoside antibiotic	antibiotic efflux
+111	AAC44793.1	ARO:3002524	AAC(2)-Ib	AAC(2)-Ib	AAC(2)	aminoglycoside antibiotic	antibiotic inactivation
+112	AAC46344.1	ARO:3001408	OXA-13	OXA-13	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+113	AAC60780.1	ARO:3003049	rosB	rosB	major facilitator superfamily (MFS) antibiotic efflux pump	peptide antibiotic	antibiotic efflux
+114	AAC60781.1	ARO:3003048	rosA	rosA	major facilitator superfamily (MFS) antibiotic efflux pump	peptide antibiotic	antibiotic efflux
+115	AAC61670.1	ARO:3001308	VgbB	vgbB	streptogramin vgb lyase	streptogramin antibiotic	antibiotic inactivation
+116	AAC61671.1	ARO:3002842	vatC	vatC	streptogramin vat acetyltransferase	streptogramin antibiotic	antibiotic inactivation
+117	AAC64365.1	ARO:3000230	ANT(2)-Ia	ANT(2)-Ia	ANT(2)	aminoglycoside antibiotic	antibiotic inactivation
+118	AAC64366.1	ARO:3002847	arr-2	arr-2	rifampin ADP-ribosyltransferase (Arr)	rifamycin antibiotic	antibiotic inactivation
+119	AAC69327.1	ARO:3000598	Erm(31)	Erm(31)	Erm 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic	antibiotic target alteration
+120	AAC69328.1	ARO:3001265	Erm(30)	Erm(30)	Erm 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic	antibiotic target alteration
+121	AAC72341.1	ARO:3000182	tet(Y)	tet(Y)	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+122	AAC74149.2	ARO:3001216	mdtH	mdtH	major facilitator superfamily (MFS) antibiotic efflux pump	fluoroquinolone antibiotic	antibiotic efflux
+123	AAC74603.2	ARO:3003378	Escherichia coli marR mutant conferring antibiotic resistance	Escherichia coli marR mutant conferring antibiotic resistance	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;cephalosporin;glycylcycline;penam;tetracycline antibiotic;rifamycin antibiotic;phenicol antibiotic;triclosan	antibiotic target alteration;antibiotic efflux
+124	AAC75089.1	ARO:3003577	pmrE	PmrE	pmr phosphoethanolamine transferase	peptide antibiotic	antibiotic target alteration
+125	AAC75135.2	ARO:3000792	mdtA	mdtA	resistance-nodulation-cell division (RND) antibiotic efflux pump	aminocoumarin antibiotic	antibiotic efflux
+126	AAC75136.1	ARO:3000793	mdtB	mdtB	resistance-nodulation-cell division (RND) antibiotic efflux pump	aminocoumarin antibiotic	antibiotic efflux
+127	AAC75137.1	ARO:3000794	mdtC	mdtC	resistance-nodulation-cell division (RND) antibiotic efflux pump	aminocoumarin antibiotic	antibiotic efflux
+128	AAC75314.1	ARO:3003578	pmrF	PmrF	pmr phosphoethanolamine transferase	peptide antibiotic	antibiotic target alteration
+129	AAC75315.1	ARO:3002985	arnA	arnA	pmr phosphoethanolamine transferase	peptide antibiotic	antibiotic target alteration
+130	AAC75429.1	ARO:3000833	evgS	evgS	major facilitator superfamily (MFS) antibiotic efflux pump;resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;penam;tetracycline antibiotic	antibiotic efflux
+131	AAC75733.1	ARO:3000074	emrB	emrB	major facilitator superfamily (MFS) antibiotic efflux pump	fluoroquinolone antibiotic	antibiotic efflux
+132	AAC76093.1	ARO:3002986	bacA	bacA	undecaprenyl pyrophosphate related proteins	peptide antibiotic	antibiotic target alteration
+133	AAC76296.1	ARO:3000656	acrS	AcrS	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;cephalosporin;glycylcycline;cephamycin;penam;tetracycline antibiotic;rifamycin antibiotic;phenicol antibiotic;triclosan	antibiotic efflux
+134	AAC76297.1	ARO:3000499	acrE	AcrE	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;cephalosporin;cephamycin;penam	antibiotic efflux
+135	AAC76298.1	ARO:3000502	acrF	AcrF	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;cephalosporin;cephamycin;penam	antibiotic efflux
+136	AAC76539.1	ARO:3000796	mdtF	mdtF	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;penam	antibiotic efflux
+137	AAC77033.1	ARO:3003381	Escherichia coli soxR with mutation conferring antibiotic resistance	Escherichia coli soxR with mutation conferring antibiotic resistance	ATP-binding cassette (ABC) antibiotic efflux pump;major facilitator superfamily (MFS) antibiotic efflux pump;resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;cephalosporin;glycylcycline;penam;tetracycline antibiotic;rifamycin antibiotic;phenicol antibiotic;triclosan	antibiotic target alteration;antibiotic efflux
+138	AAC77293.1	ARO:3001214	mdtM	mdtM	major facilitator superfamily (MFS) antibiotic efflux pump	fluoroquinolone antibiotic;lincosamide antibiotic;nucleoside antibiotic;acridine dye;phenicol antibiotic	antibiotic efflux
+139	AAC78336.1	ARO:3002826	EreA2	EreA2	macrolide esterase	macrolide antibiotic	antibiotic inactivation
+140	AAD01868.1	ARO:3002867	dfrF	dfrF	trimethoprim resistant dihydrofolate reductase dfr	diaminopyrimidine antibiotic	antibiotic target replacement
+141	AAD03490.1	ARO:3002561	AAC(6)-Ir	AAC(6)-Ir	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+142	AAD03491.1	ARO:3002562	AAC(6)-Is	AAC(6)-Is	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+143	AAD03494.1	ARO:3002566	AAC(6)-Iv	AAC(6)-Iv	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+144	AAD03495.1	ARO:3002567	AAC(6)-Iw	AAC(6)-Iw	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+145	AAD04032.1	ARO:3002892	otr(B)	otr(B)	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+146	AAD09860.1	ARO:3000561	tet(30)	tet(30)	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+147	AAD12162.1	ARO:3001299	tlrB conferring tylosin resistance	tlrB conferring tylosin resistance	non-erm 23S ribosomal RNA methyltransferase (G748)	macrolide antibiotic;lincosamide antibiotic	antibiotic target alteration
+148	AAD12233.1	ARO:3001417	OXA-22	OXA-22	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+149	AAD12753.1	ARO:3000177	tet(J)	tet(J)	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+150	AAD22403.1	ARO:3002970	vanTC	vanTC	glycopeptide resistance gene cluster;vanT	glycopeptide antibiotic	antibiotic target alteration
+151	AAD25063.1	ARO:3000183	tet(Z)	tet(Z)	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+152	AAD25538.1	ARO:3000174	tet(G)	tet(G)	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+153	AAD37403.1	ARO:3003202	TLA-1	TLA-1	TLA beta-lactamase	fluoroquinolone antibiotic;monobactam;cephalosporin	antibiotic inactivation
+154	AAD46626.1	ARO:3002596	AAC(6)-IIc	AAC(6)-IIc	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+155	AAD50818.2	ARO:3002019	CMY-8	CMY-8	CMY beta-lactamase	cephamycin	antibiotic inactivation
+156	AAD51344.1	ARO:3003051	smeA	smeA	resistance-nodulation-cell division (RND) antibiotic efflux pump	aminoglycoside antibiotic;cephalosporin;cephamycin;penam	antibiotic efflux
+157	AAD51345.1	ARO:3003052	smeB	smeB	resistance-nodulation-cell division (RND) antibiotic efflux pump	aminoglycoside antibiotic;cephalosporin;cephamycin;penam	antibiotic efflux
+158	AAD51346.1	ARO:3003053	smeC	smeC	resistance-nodulation-cell division (RND) antibiotic efflux pump	aminoglycoside antibiotic;cephalosporin;cephamycin;penam	antibiotic efflux
+159	AAD51347.1	ARO:3003067	smeS	smeS	resistance-nodulation-cell division (RND) antibiotic efflux pump	aminoglycoside antibiotic;cephalosporin;cephamycin;penam	antibiotic efflux
+160	AAD51348.1	ARO:3003066	smeR	smeR	resistance-nodulation-cell division (RND) antibiotic efflux pump	aminoglycoside antibiotic;cephalosporin;cephamycin;penam	antibiotic efflux
+161	AAF01499.1	ARO:3000193	tetT	tetT	tetracycline-resistant ribosomal protection protein	tetracycline antibiotic	antibiotic target protection
+162	AAF04458.1	ARO:3000850	GOB-1 beta-lactamase	GOB-1	GOB beta-lactamase	carbapenem;cephalosporin;penam	antibiotic inactivation
+163	AAF09244.1	ARO:3000849	SFH-1	SFH-1	SFH beta-lactamase	carbapenem	antibiotic inactivation
+164	AAF17880.1	ARO:3002605	aadA5	aadA5	ANT(3)	aminoglycoside antibiotic	antibiotic inactivation
+165	AAF36802.1	ARO:3002945	vanHF	vanHF	vanH;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+166	AAF36803.1	ARO:3002908	vanF	vanF	glycopeptide resistance gene cluster;van ligase	glycopeptide antibiotic	antibiotic target alteration
+167	AAF36804.1	ARO:3002952	vanXF	vanXF	vanX;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+168	AAF36805.1	ARO:3002958	vanYF	vanYF	vanY;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+169	AAF36806.1	ARO:3002963	vanZF	vanZF	vanZ;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+170	AAF61331.1	ARO:3002966	vanXYC	vanXYC	glycopeptide resistance gene cluster;vanXY	glycopeptide antibiotic	antibiotic target alteration
+171	AAF63432	ARO:3003744	vatF	vatF	streptogramin vat acetyltransferase	streptogramin antibiotic	antibiotic inactivation
+172	AAF67494.2	ARO:3002522	novA	novA	ATP-binding cassette (ABC) antibiotic efflux pump	aminocoumarin antibiotic	antibiotic efflux
+173	AAF86219.1	ARO:3000375	ErmB	ErmB	Erm 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic	antibiotic target alteration
+174	AAF86220.1	ARO:3002844	vatE	vatE	streptogramin vat acetyltransferase	streptogramin antibiotic	antibiotic inactivation
+175	AAF86641.1	ARO:3002922	vanRC	vanRC	glycopeptide resistance gene cluster;vanR	glycopeptide antibiotic	antibiotic target alteration
+176	AAF86642.1	ARO:3002933	vanSC	vanSC	vanS;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+177	AAF86691.1	ARO:3001816	ACC-2	ACC-2	ACC beta-lactamase	monobactam;cephalosporin;penam	antibiotic inactivation
+178	AAG03357.1	ARO:3000596	ErmX	ErmX	Erm 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic	antibiotic target alteration
+179	AAG07064.1	ARO:3003693	mexK	MexK	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;tetracycline antibiotic;triclosan	antibiotic efflux
+180	AAG07762.1	ARO:3003030	mexV	MexV	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;tetracycline antibiotic;acridine dye;phenicol antibiotic	antibiotic efflux
+181	AAG07763.1	ARO:3003031	mexW	MexW	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;tetracycline antibiotic;acridine dye;phenicol antibiotic	antibiotic efflux
+182	AAG15269.1	ARO:3002528	AAC(3)-Ia	AAC(3)-Ia	AAC(3)	aminoglycoside antibiotic	antibiotic inactivation
+183	AAG16656.1	ARO:3002705	floR	floR	major facilitator superfamily (MFS) antibiotic efflux pump	phenicol antibiotic	antibiotic efflux
+184	AAG29761.2	ARO:3002259	IND-3	IND-3	IND beta-lactamase	carbapenem	antibiotic inactivation
+185	AAG29765.2	ARO:3002260	IND-4	IND-4	IND beta-lactamase	carbapenem	antibiotic inactivation
+186	AAG29813.1	ARO:3002380	SME-2	SME-2	SME beta-lactamase	carbapenem	antibiotic inactivation
+187	AAG33665.1	ARO:3001431	OXA-37	OXA-37	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+188	AAG35608.1	ARO:3001421	OXA-26	OXA-26	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+189	AAK01167.1	ARO:3002819	msrC	msrC	ATP-binding cassette (ABC) antibiotic efflux pump	macrolide antibiotic;streptogramin antibiotic	antibiotic efflux
+190	AAK07612.2	ARO:3000604	Erm(35)	Erm(35)	Erm 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic	antibiotic target alteration
+191	AAK11270.1	ARO:3003385	Enterobacter aerogenes omp36 with mutation	Enterobacter aerogenes Omp36	General Bacterial Porin with reduced permeability to beta-lactams	monobactam;carbapenem;cephalosporin;cephamycin;penam;penem	reduced permeability to antibiotic
+192	AAK14293.1	ARO:3002378	VEB-9	VEB-9	VEB beta-lactamase	monobactam;cephalosporin	antibiotic inactivation
+193	AAK14293.1	ARO:3002378	VEB-9	VEB-9	VEB beta-lactamase	monobactam;cephalosporin	antibiotic inactivation
+194	AAK26252.2	ARO:3002583	AAC(6)-29a	AAC(6)-29a	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+195	AAK37619.1	ARO:3000481	tet(35)	tet(35)	ATP-binding cassette (ABC) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+196	AAK38324.1	ARO:3000840	JOHN-1 beta-lactamase	JOHN-1	JOHN beta-lactamase	carbapenem;cephalosporin;penam	antibiotic inactivation
+197	AAK44936.1	ARO:3003395	Mycobacterium tuberculosis rpsL mutations conferring resistance to Streptomycin	Mycobacterium tuberculosis rpsL mutations conferring resistance to Streptomycin	antibiotic resistant rpsL	aminoglycoside antibiotic	antibiotic target alteration
+198	AAK46002.1	ARO:3003445	Mycobacterium tuberculosis tlyA mutations conferring resistance to aminoglycosides	Mycobacterium tuberculosis tlyA mutations conferring resistance to aminoglycosides	Antibiotic resistant tlyA	aminoglycoside antibiotic	antibiotic target alteration
+199	AAK48336.1	ARO:3003458	Mycobacterium tuberculosis ethA with mutation conferring resistance to ethionamide	Mycobacterium tuberculosis ethA with mutation conferring resistance to ethionamide	ethionamide resistant ethA	isoniazid;ethionamide	antibiotic target alteration
+200	AAK60186.1	ARO:3003014	dfrA16	dfrA16	trimethoprim resistant dihydrofolate reductase dfr	diaminopyrimidine antibiotic	antibiotic target replacement
+201	AAK63040.1	ARO:3002635	APH(2)-IIa	APH(2)-IIa	APH(2)	aminoglycoside antibiotic	antibiotic inactivation
+202	AAK63041.1	ARO:3002559	AAC(6)-Ip	AAC(6)-Ip	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+203	AAK63223.1	ARO:3003561	Sed1 beta-lactamase	Sed-1	Sed beta-lactamase	cephalosporin;penam	antibiotic inactivation
+204	AAK74984.1	ARO:3003311	Streptococcus pneumoniae parC conferring resistance to fluoroquinolone	Streptococcus pneumoniae parC conferring resistance to fluoroquinolone	fluoroquinolone resistant parC;fluoroquinolone self resistant parC	fluoroquinolone antibiotic	antibiotic target alteration
+205	AAK84316.1	ARO:3002843	vatD	vatD	streptogramin vat acetyltransferase	streptogramin antibiotic	antibiotic inactivation
+206	AAL08441.1	ARO:3002670	cat	cat	chloramphenicol acetyltransferase (CAT)	phenicol antibiotic	antibiotic inactivation
+207	AAL12234.1	ARO:3003552	fusB	fusB	fusidic acid inactivation enzyme	fusidic acid	antibiotic inactivation
+208	AAL14439.1	ARO:3000774	adeA	adeA	resistance-nodulation-cell division (RND) antibiotic efflux pump	glycylcycline;tetracycline antibiotic	antibiotic efflux
+209	AAL14440.1	ARO:3000775	adeB	adeB	resistance-nodulation-cell division (RND) antibiotic efflux pump	glycylcycline;tetracycline antibiotic	antibiotic efflux
+210	AAL27442.1	ARO:3002907	vanE	vanE	glycopeptide resistance gene cluster;van ligase	glycopeptide antibiotic	antibiotic target alteration
+211	AAL27443.1	ARO:3002967	vanXYE	vanXYE	glycopeptide resistance gene cluster;vanXY	glycopeptide antibiotic	antibiotic target alteration
+212	AAL27444.1	ARO:3002971	vanTE	vanTE	glycopeptide resistance gene cluster;vanT	glycopeptide antibiotic	antibiotic target alteration
+213	AAL27445.1	ARO:3002924	vanRE	vanRE	glycopeptide resistance gene cluster;vanR	glycopeptide antibiotic	antibiotic target alteration
+214	AAL27446.1	ARO:3002935	vanSE	vanSE	vanS;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+215	AAL51021.2	ARO:3002598	ANT(3)-Ii-AAC(6)-IId fusion protein	ANT(3)-Ii-AAC(6)-IId fusion protein	AAC(6);ANT(3)	aminoglycoside antibiotic	antibiotic inactivation
+216	AAL59753.1	ARO:3000412	sul2	sul2	sulfonamide resistant sul	sulfonamide antibiotic;sulfone antibiotic	antibiotic target replacement
+217	AAL68645.1	ARO:3002681	catB9	catB9	chloramphenicol acetyltransferase (CAT)	phenicol antibiotic	antibiotic inactivation
+218	AAL68827.1	ARO:3000605	Erm(36)	Erm(36)	Erm 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic	antibiotic target alteration
+219	AAL78275.1	ARO:3002391	OXY-1-3	OXY-1-3	OXY beta-lactamase	monobactam;cephalosporin;penam	antibiotic inactivation
+220	AAL82403.1	ARO:3003297	Bartonella bacilliformis gyrA conferring resistance to fluoroquinolones	Bartonella bacilliformis gyrA conferring resistance to fluoroquinolones	fluoroquinolone resistant gyrA	fluoroquinolone antibiotic;nybomycin	antibiotic target alteration
+221	AAL82588.1	ARO:3002600	AAC(3)-Ib/AAC(6)-Ib	AAC(3)-Ib/AAC(6)-Ib	AAC(3);AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+222	AAL97684.1	ARO:3003387	Streptococcus pyogenes folP with mutation conferring resistance to sulfonamides	Streptococcus pyogenes folP with mutation conferring resistance to sulfonamides	sulfonamide resistant dihydropteroate synthase folP	sulfonamide antibiotic;sulfone antibiotic	antibiotic target alteration
+223	AAM09849.1	ARO:3000005	vanD	vanD	glycopeptide resistance gene cluster;van ligase	glycopeptide antibiotic	antibiotic target alteration
+224	AAM09850.1	ARO:3002944	vanHD	vanHD	vanH;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+225	AAM09851.1	ARO:3002923	vanRD	vanRD	glycopeptide resistance gene cluster;vanR	glycopeptide antibiotic	antibiotic target alteration
+226	AAM09852.1	ARO:3003070	vanXD	vanXD	vanX;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+227	AAM09853.1	ARO:3002957	vanYD	vanYD	vanY;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+228	AAM15533.1	ARO:3003688	PvrR	PvrR	phenotypic variant regulator	aminoglycoside antibiotic	resistance by absence
+229	AAM76670.1	ARO:3002625	ANT(4)-IIb	ANT(4)-IIb	ANT(4)	aminoglycoside antibiotic	antibiotic inactivation
+230	AAM92464.1	ARO:3002594	AAC(6)-IIa	AAC(6)-IIa	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+231	AAN28721.1	ARO:3002871	tet37	tet37	tetracycline inactivation enzyme	tetracycline antibiotic	antibiotic inactivation
+232	AAN28945	ARO:3003785	Chlamydia trachomatis intrinsic murA conferring resistance to fosfomycin	Chlamydia trachomatis intrinsic murA conferring resistance to fosfomycin	murA transferase	fosfomycin	antibiotic target alteration
+233	AAN32638.1	ARO:3000842	EBR-1 beta-lactamase	EBR-1 beta-lactamase	EBR beta-lactamase	carbapenem;cephalosporin;penam	antibiotic inactivation
+234	AAN41427.1	ARO:3001775	OXA-119	OXA-119	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+235	AAN41433.1	ARO:3002864	dfrB1	dfrB1	trimethoprim resistant dihydrofolate reductase dfr	diaminopyrimidine antibiotic	antibiotic target replacement
+236	AAN52134.1	ARO:3002275	VIM-5	VIM-5	VIM beta-lactamase	carbapenem;cephalosporin;cephamycin;penam;penem	antibiotic inactivation
+237	AAN62561.1	ARO:3003970	D-Ala-D-Ala ligase	D-Ala-D-Ala ligase	van ligase	glycopeptide antibiotic	antibiotic target alteration
+238	AAN63648.1	ARO:3000844	TUS-1 beta-lactamase	TUS-1	TUS beta-lactamase	carbapenem;cephalosporin;cephamycin	antibiotic inactivation
+239	AAN82549.1	ARO:3003369	Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin	Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin	elfamycin resistant EF-Tu	elfamycin antibiotic	antibiotic target alteration
+240	AAN86837.2	ARO:3000601	Erm(38)	Erm(38)	Erm 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic	antibiotic target alteration
+241	AAO04716.1	ARO:3002865	dfrC	dfrC	trimethoprim resistant dihydrofolate reductase dfr	diaminopyrimidine antibiotic	antibiotic target replacement
+242	AAO16462.1	ARO:3000167	tet(C)	tet(C)	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+243	AAO47226.2	ARO:3003318	Streptomyces rishiriensis parY mutant conferring resistance to aminocoumarin	Streptomyces rishiriensis parY mutant conferring resistance to aminocoumarin	aminocoumarin resistant parY;aminocoumarin self resistant parY	aminocoumarin antibiotic	antibiotic target alteration
+244	AAO83986.1	ARO:3002623	ANT(4)-Ia	ANT(4)-Ia	ANT(4)	aminoglycoside antibiotic	antibiotic inactivation
+245	AAP22374.1	ARO:3002248	CARB-9	CARB-9	CARB beta-lactamase	penam	antibiotic inactivation
+246	AAP43642.1	ARO:3002588	AAC(6)-I30	AAC(6)-I30	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+247	AAP69916.1	ARO:3001780	OXA-85	OXA-85	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+248	AAP74657.1	ARO:3000600	Erm(34)	Erm(34)	Erm 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic	antibiotic target alteration
+249	AAP93922.1	ARO:3000569	tet(41)	tet(41)	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+250	AAQ08905.1	ARO:3001808	OXA-60	OXA-60	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+251	AAQ63644.1	ARO:3002670	cat	cat	chloramphenicol acetyltransferase (CAT)	phenicol antibiotic	antibiotic inactivation
+252	AAQ76277.1	ARO:3001796	OXA-50	OXA-50	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+253	AAR03105.1	ARO:3001813	OXA-55	OXA-55	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+254	AAR20595.1	ARO:3000090	BLA1	Bla1	class A Bacillus anthracis Bla beta-lactamase	penam	antibiotic inactivation
+255	AAR21614.1	ARO:3002529	AAC(3)-Id	AAC(3)-Id	AAC(3)	aminoglycoside antibiotic	antibiotic inactivation
+256	AAR32134.1	ARO:3001792	OXA-62	OXA-62	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+257	AAR84672.1	ARO:3002925	vanRF	vanRF	glycopeptide resistance gene cluster;vanR	glycopeptide antibiotic	antibiotic target alteration
+258	AAR84673.1	ARO:3002936	vanSF	vanSF	vanS;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+259	AAR92235.1	ARO:3000602	Erm(39)	Erm(39)	Erm 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic	antibiotic target alteration
+260	AAR96051.1	ARO:3002894	otrC	otrC	ATP-binding cassette (ABC) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+261	AAS13767.1	ARO:3003839	Mrx	Mrx	macrolide phosphotransferase (MPH)	macrolide antibiotic	antibiotic inactivation
+262	AAS68233.1	ARO:3000391	norA	norA	major facilitator superfamily (MFS) antibiotic efflux pump	fluoroquinolone antibiotic;acridine dye	antibiotic efflux
+263	AAS79458.1	ARO:3001302	chrB	chrB	non-erm 23S ribosomal RNA methyltransferase (G748)	macrolide antibiotic;lincosamide antibiotic	antibiotic target alteration
+264	AAT01092.1	ARO:3001773	OXA-61	OXA-61	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+265	AAT46077.1	ARO:3000300	lsaA	lsaA	ATP-binding cassette (ABC) antibiotic efflux pump	lincosamide antibiotic;streptogramin antibiotic;pleuromutilin antibiotic	antibiotic efflux
+266	AAT90846.1	ARO:3003556	SLB-1	SLB-1	SHW beta-lactamase	cephalosporin;penam	antibiotic inactivation
+267	AAT90847.1	ARO:3003557	SFB-1	SFB-1	SHW beta-lactamase	cephalosporin;penam	antibiotic inactivation
+268	AAU10334.1	ARO:3002628	aad(6)	aad(6)	ANT(6)	aminoglycoside antibiotic	antibiotic inactivation
+269	AAU95768.1	ARO:3000026	mepA	mepA	multidrug and toxic compound extrusion (MATE) transporter	glycylcycline;tetracycline antibiotic	antibiotic efflux
+270	AAV80464.1	ARO:3000565	tet(38)	tet(38)	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+271	AAV85981.1	ARO:3000533	macA	macA	ATP-binding cassette (ABC) antibiotic efflux pump	macrolide antibiotic	antibiotic efflux
+272	AAV85982.1	ARO:3000535	macB	macB	ATP-binding cassette (ABC) antibiotic efflux pump	macrolide antibiotic	antibiotic efflux
+273	AAV97957.1	ARO:3001933	CTX-M-72	CTX-M-72	CTX-M beta-lactamase	cephalosporin	antibiotic inactivation
+274	AAW66497.1	ARO:3000566	tet(39)	tet(39)	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+275	AAX14802.1	ARO:3000781	adeJ	adeJ	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;lincosamide antibiotic;carbapenem;cephalosporin;tetracycline antibiotic;rifamycin antibiotic;diaminopyrimidine antibiotic;phenicol antibiotic;penem	antibiotic efflux
+276	AAX14803.1	ARO:3000782	adeK	adeK	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;lincosamide antibiotic;carbapenem;cephalosporin;tetracycline antibiotic;rifamycin antibiotic;diaminopyrimidine antibiotic;phenicol antibiotic;penem	antibiotic efflux
+277	AAX38178.1	ARO:3002634	APH(2)-Ie	APH(2)-Ie	APH(2)	aminoglycoside antibiotic	antibiotic inactivation
+278	AAX55643.1	ARO:3003558	y56 beta-lactamase	y56 beta-lactamase	BlaA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+279	AAY32951.1	ARO:3002837	lnuC	lnuC	lincosamide nucleotidyltransferase (LNU)	lincosamide antibiotic	antibiotic inactivation
+280	AAZ42322.1	ARO:3003836	qacH	qacH	small multidrug resistance (SMR) antibiotic efflux pump	fluoroquinolone antibiotic	antibiotic efflux
+281	ABA28305.2	ARO:3000462	mgtA	mgtA	mgt macrolide glycotransferase	macrolide antibiotic	antibiotic inactivation
+282	ABA42118.2	ARO:3000866	oleI	oleI	ole glycosyltransferase	macrolide antibiotic	antibiotic inactivation
+283	ABA42119.2	ARO:3000865	oleD	oleD	ole glycosyltransferase	macrolide antibiotic	antibiotic inactivation
+284	ABA71727.1	ARO:3002926	vanRG	vanRG	glycopeptide resistance gene cluster;vanR	glycopeptide antibiotic	antibiotic target alteration
+285	ABA71728.1	ARO:3002937	vanSG	vanSG	vanS;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+286	ABA71729.1	ARO:3002959	vanYG1	vanYG1	vanY;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+287	ABA71730.1	ARO:3002965	vanWG	vanWG	vanW;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+288	ABA71731.1	ARO:3002909	vanG	vanG	glycopeptide resistance gene cluster;van ligase	glycopeptide antibiotic	antibiotic target alteration
+289	ABA71732.1	ARO:3003069	vanXYG	vanXYG	glycopeptide resistance gene cluster;vanXY	glycopeptide antibiotic	antibiotic target alteration
+290	ABA71733.1	ARO:3002972	vanTG	vanTG	glycopeptide resistance gene cluster;vanT	glycopeptide antibiotic	antibiotic target alteration
+291	ABB43029.1	ARO:3002539	AAC(3)-IV	AAC(3)-IV	AAC(3)	aminoglycoside antibiotic	antibiotic inactivation
+292	ABB71176.1	ARO:3003020	dfrA25	dfrA25	trimethoprim resistant dihydrofolate reductase dfr	diaminopyrimidine antibiotic	antibiotic target replacement
+293	ABC68330.1	ARO:3002640	APH(3)-Ic	APH(3)-Ic	APH(3)	aminoglycoside antibiotic	antibiotic inactivation
+294	ABC88434.1	ARO:3002213	IMP-22	IMP-22	IMP beta-lactamase	carbapenem;cephalosporin;cephamycin;penam;penem	antibiotic inactivation
+295	ABD73290.1	ARO:3001920	CTX-M-59	CTX-M-59	CTX-M beta-lactamase	cephalosporin	antibiotic inactivation
+296	ABF33001.1	ARO:3003969	lmrP	lmrP	major facilitator superfamily (MFS) antibiotic efflux pump	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic;tetracycline antibiotic	antibiotic efflux
+297	ABF50909.1	ARO:3002521	OCH-8	OCH-8	OCH beta-lactamase	monobactam;cephalosporin;cephamycin;penam;penem	antibiotic inactivation
+298	ABF66011.1	ARO:3002881	lmrC	lmrC	ATP-binding cassette (ABC) antibiotic efflux pump	lincosamide antibiotic	antibiotic efflux
+299	ABF66027.1	ARO:3002882	lmrD	lmrD	ATP-binding cassette (ABC) antibiotic efflux pump	lincosamide antibiotic	antibiotic efflux
+300	ABG49324.1	ARO:3002609	aadA9	aadA9	ANT(3)	aminoglycoside antibiotic	antibiotic inactivation
+301	ABG77965.1	ARO:3004042	Enterobacter cloacae acrA	Enterobacter cloacae acrA	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;cephalosporin;glycylcycline;penam;tetracycline antibiotic;rifamycin antibiotic;phenicol antibiotic;triclosan	antibiotic efflux
+302	ABG91835.1	ARO:3002860	dfrA17	dfrA17	trimethoprim resistant dihydrofolate reductase dfr	diaminopyrimidine antibiotic	antibiotic target replacement
+303	ABI50486.1	ARO:3002707	QnrA1	QnrA1	quinolone resistance protein (qnr)	fluoroquinolone antibiotic	antibiotic target protection
+304	ABK33456.1	ARO:3002639	APH(3)-Ib	APH(3)-Ib	APH(3)	aminoglycoside antibiotic	antibiotic inactivation
+305	ABR10839.1	ARO:3002586	AAC(6)-32	AAC(6)-32	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+306	ABR14060.1	ARO:3002838	lnuD	lnuD	lincosamide nucleotidyltransferase (LNU)	lincosamide antibiotic	antibiotic inactivation
+307	ABR75897.1	ARO:3003373	Klebsiella pneumoniae acrR with mutation conferring multidrug antibiotic resistance	Klebsiella pneumoniae acrR with mutation conferring multidrug antibiotic resistance	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;cephalosporin;glycylcycline;penam;tetracycline antibiotic;rifamycin antibiotic;phenicol antibiotic;triclosan	antibiotic target alteration;antibiotic efflux
+308	ABR76005.1	ARO:3003380	Klebsiella pneumoniae ramR mutants	Klebsiella pneumoniae ramR mutants	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;cephalosporin;glycylcycline;penam;tetracycline antibiotic;rifamycin antibiotic;phenicol antibiotic;triclosan	antibiotic target alteration;antibiotic efflux
+309	ABS29619.1	ARO:3000841	CGB-1 beta-lactamase	CGB-1	CGB beta-lactamase	carbapenem;cephalosporin;penam	antibiotic inactivation
+310	ABS43151.1	ARO:3000784	cmeB	cmeB	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;cephalosporin;fusidic acid	antibiotic efflux
+311	ABS43901.1	ARO:3000783	cmeA	cmeA	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;cephalosporin;fusidic acid	antibiotic efflux
+312	ABU39978.1	ARO:3000160	blaI	blaI	blaZ beta-lactamase	penam	antibiotic inactivation
+313	ABU39979.1	ARO:3000217	blaR1	blaR1	blaZ beta-lactamase	penam	antibiotic inactivation
+314	ABV18113.1	ARO:3001329	mdtG	mdtG	major facilitator superfamily (MFS) antibiotic efflux pump	fosfomycin	antibiotic efflux
+315	ABV26707.1	ARO:3002850	arr-5	arr-5	rifampin ADP-ribosyltransferase (Arr)	rifamycin antibiotic	antibiotic inactivation
+316	ABW06859.1	ARO:3000603	Erm(41)	Erm(41)	Erm 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic	antibiotic target alteration
+317	ABW70410.1	ARO:3001644	OXA-113	OXA-113	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+318	ABX30738.1	ARO:3000621	PC1 beta-lactamase (blaZ)	PC1 beta-lactamase (blaZ)	blaZ beta-lactamase	penam	antibiotic inactivation
+319	ABX54687.1	ARO:3002910	vanL	vanL	glycopeptide resistance gene cluster;van ligase	glycopeptide antibiotic	antibiotic target alteration
+320	ABX54688.1	ARO:3002968	vanXYL	vanXYL	glycopeptide resistance gene cluster;vanXY	glycopeptide antibiotic	antibiotic target alteration
+321	ABX54689.1	ARO:3002973	vanTmL	vanTmL	glycopeptide resistance gene cluster;vanT	glycopeptide antibiotic	antibiotic target alteration
+322	ABX54690.1	ARO:3002974	vanTrL	vanTrL	glycopeptide resistance gene cluster;vanT	glycopeptide antibiotic	antibiotic target alteration
+323	ABX54691.1	ARO:3002927	vanRL	vanRL	glycopeptide resistance gene cluster;vanR	glycopeptide antibiotic	antibiotic target alteration
+324	ABX54692.1	ARO:3002938	vanSL	vanSL	vanS;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+325	ABY64751.1	ARO:3002667	rmtD	rmtD	16S rRNA methyltransferase (G1405)	aminoglycoside antibiotic	antibiotic target alteration
+326	ACA23185.1	ARO:3000194	tetW	tetW	tetracycline-resistant ribosomal protection protein	tetracycline antibiotic	antibiotic target protection
+327	ACC85616.1	ARO:3002804	FosA2	FosA2	fosfomycin thiol transferase	fosfomycin	antibiotic inactivation
+328	ACD35503.1	ARO:3000572	tet(42)	tet(42)	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+329	ACE62798.1	ARO:3002317	KPC-7	KPC-7	KPC beta-lactamase	monobactam;carbapenem;cephalosporin;penam	antibiotic inactivation
+330	ACF17980.1	ARO:3002616	aadA16	aadA16	ANT(3)	aminoglycoside antibiotic	antibiotic inactivation
+331	ACF30254.1	ARO:3000817	mtrR	mtrR	major facilitator superfamily (MFS) antibiotic efflux pump;resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;penam;antibacterial free fatty acids	antibiotic efflux
+332	ACG70184.1	ARO:3002788	QnrD1	QnrD1	quinolone resistance protein (qnr)	fluoroquinolone antibiotic	antibiotic target protection
+333	ACH50230.1	ARO:3003379	Salmonella enterica ramR mutants	Salmonella enterica ramR mutants	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;cephalosporin;glycylcycline;penam;tetracycline antibiotic;rifamycin antibiotic;phenicol antibiotic;triclosan	antibiotic target alteration;antibiotic efflux
+334	ACH58980.1	ARO:3002482	LRA-1	LRA-1	class A LRA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+335	ACH58985.1	ARO:3002485	LRA-2	LRA-2	subclass B3 LRA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+336	ACH58987.1	ARO:3002510	LRA-3	LRA-3	subclass B3 LRA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+337	ACH58988.1	ARO:3002487	LRA-8	LRA-8	subclass B3 LRA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+338	ACH58990.1	ARO:3002511	LRA-12	LRA-12	subclass B3 LRA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+339	ACH58991.1	ARO:3002484	LRA-13	LRA-13	class C LRA beta-lactamase;class D LRA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+340	ACH58994.1	ARO:3002512	LRA-17	LRA-17	subclass B3 LRA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+341	ACH58997.1	ARO:3002492	LRA-18	LRA-18	class C LRA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+342	ACH58998.1	ARO:3002486	LRA-7	LRA-7	subclass B3 LRA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+343	ACH58999.1	ARO:3002489	LRA-10	LRA-10	class C LRA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+344	ACH59002.1	ARO:3002483	LRA-5	LRA-5	class A LRA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+345	ACH59005.1	ARO:3002513	LRA-19	LRA-19	subclass B3 LRA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+346	ACI28281.1	ARO:3001779	OXA-146	OXA-146	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+347	ACI28880.1	ARO:3002575	AAC(6)-Iai	AAC(6)-Iai	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+348	ACI32877.1	ARO:3002859	dfrA14	dfrA14	trimethoprim resistant dihydrofolate reductase dfr	diaminopyrimidine antibiotic	antibiotic target replacement
+349	ACJ59254.1	ARO:3000768	abeS	abeS	small multidrug resistance (SMR) antibiotic efflux pump	macrolide antibiotic;aminocoumarin antibiotic	antibiotic efflux
+350	ACJ63260.1	ARO:3000413	sul3	sul3	sulfonamide resistant sul	sulfonamide antibiotic;sulfone antibiotic	antibiotic target replacement
+351	ACJ63262.1	ARO:3003107	mefB	mef(B)	major facilitator superfamily (MFS) antibiotic efflux pump	macrolide antibiotic	antibiotic efflux
+352	ACK75961.1	ARO:3002787	QnrC	QnrC	quinolone resistance protein (qnr)	fluoroquinolone antibiotic	antibiotic target protection
+353	ACL82957.1	ARO:3002928	vanRM	vanRM	glycopeptide resistance gene cluster;vanR	glycopeptide antibiotic	antibiotic target alteration
+354	ACL82958.1	ARO:3002939	vanSM	vanSM	vanS;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+355	ACL82959.1	ARO:3002961	vanYM	vanYM	vanY;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+356	ACL82960.1	ARO:3002947	vanHM	vanHM	vanH;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+357	ACL82961.1	ARO:3002911	vanM	vanM	glycopeptide resistance gene cluster;van ligase	glycopeptide antibiotic	antibiotic target alteration
+358	ACL82962.1	ARO:3002953	vanXM	vanXM	vanX;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+359	ACM47284	ARO:3002934	vanSD	vanSD	vanS;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+360	ACN32294.1	ARO:3000237	tolC	TolC	ATP-binding cassette (ABC) antibiotic efflux pump;major facilitator superfamily (MFS) antibiotic efflux pump;resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;cephalosporin;glycylcycline;cephamycin;penam;tetracycline antibiotic;aminocoumarin antibiotic;rifamycin antibiotic;phenicol antibiotic;triclosan	antibiotic efflux
+361	ACQ82810.1	ARO:3002502	PDC-5	PDC-5	PDC beta-lactamase	monobactam;carbapenem;cephalosporin	antibiotic inactivation
+362	ACR57831.1	ARO:3003022	dfrB3	dfrB3	trimethoprim resistant dihydrofolate reductase dfr	diaminopyrimidine antibiotic	antibiotic target replacement
+363	ACS44784.1	ARO:3002185	MOX-6	MOX-6	MOX beta-lactamase	cephalosporin;cephamycin;penam	antibiotic inactivation
+364	ACS83748.1	ARO:3000573	tet(43)	tet(43)	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+365	ACT09140.1	ARO:3002387	BEL-3	BEL-3	BEL beta-lactamase	monobactam;cephalosporin;penam	antibiotic inactivation
+366	ACT66697.1	ARO:3000846	SIM-1 beta-lactamase	SIM-1	SIM beta-lactamase	carbapenem;cephalosporin;penam	antibiotic inactivation
+367	ACT97371.1	ARO:3003097	CfxA6	CfxA6	CfxA beta-lactamase	cephamycin	antibiotic inactivation
+368	ACT97415.1	ARO:3002999	CblA-1	CblA-1	CblA beta-lactamase	cephalosporin	antibiotic inactivation
+369	ACX71212.1	ARO:3001860	IMI-3	IMI-3	IMI beta-lactamase	carbapenem	antibiotic inactivation
+370	ACX92986.2	ARO:3002832	vgaD	vgaD	ATP-binding cassette (ABC) antibiotic efflux pump	streptogramin antibiotic;pleuromutilin antibiotic	antibiotic efflux
+371	ACX92987.1	ARO:3002845	vatH	vatH	streptogramin vat acetyltransferase	streptogramin antibiotic	antibiotic inactivation
+372	ACZ65153.1	ARO:3002265	IND-9	IND-9	IND beta-lactamase	carbapenem	antibiotic inactivation
+373	ADC55560.1	ARO:3000858	armA	armA	16S rRNA methyltransferase (G1405)	aminoglycoside antibiotic	antibiotic target alteration
+374	ADE08374.2	ARO:3003196	tet(45)	tet(45)	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+375	ADI81040.1	ARO:3002800	QnrVC3	QnrVC3	quinolone resistance protein (qnr)	fluoroquinolone antibiotic	antibiotic target protection
+376	ADJ67256	ARO:3003319	Staphylococcus aureus mprF mutations conferring resistance to daptomycin	Staphylococcus aureus mprF with mutation conferring resistance to daptomycin	daptomycin resistant mprF	peptide antibiotic	antibiotic target alteration
+377	ADK25051.1	ARO:3002268	IND-12	IND-12	IND beta-lactamase	carbapenem	antibiotic inactivation
+378	ADM92605.1	ARO:3000553	adeR	adeR	resistance-nodulation-cell division (RND) antibiotic efflux pump	glycylcycline;tetracycline antibiotic	antibiotic efflux
+379	ADM92606.1	ARO:3000549	adeS	adeS	resistance-nodulation-cell division (RND) antibiotic efflux pump	glycylcycline;tetracycline antibiotic	antibiotic efflux
+380	ADQ43421.1	ARO:3002646	APH(3)-IIc	APH(3)-IIc	APH(3)	aminoglycoside antibiotic	antibiotic inactivation
+381	ADT64081.1	ARO:3000813	MexS	MexS	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;diaminopyrimidine antibiotic;phenicol antibiotic	antibiotic efflux
+382	ADT70779.1	ARO:3001805	OXA-198	OXA-198	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+383	ADV91011.1	ARO:3000245	RbpA	RbpA	RbpA bacterial RNA polymerase-binding protein	rifamycin antibiotic	antibiotic target protection
+384	ADX95999.1	ARO:3002873	FosB3	FosB3	fosfomycin thiol transferase	fosfomycin	antibiotic inactivation
+385	ADZ48685.1	ARO:3002346	GES-17	GES-17	GES beta-lactamase	carbapenem;cephalosporin;penam	antibiotic inactivation
+386	ADZ54048.1	ARO:3001766	OXA-192	OXA-192	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+387	AEA37904.1	ARO:3003112	lsaC	lsaC	ATP-binding cassette (ABC) antibiotic efflux pump	lincosamide antibiotic;streptogramin antibiotic;pleuromutilin antibiotic	antibiotic efflux
+388	AEG74319.1	ARO:3002794	QnrS5	QnrS5	quinolone resistance protein (qnr)	fluoroquinolone antibiotic	antibiotic target protection
+389	AEH41427.1	ARO:3002218	IMP-27	IMP-27	IMP beta-lactamase	carbapenem;cephalosporin;cephamycin;penam;penem	antibiotic inactivation
+390	AEJ33969.1	ARO:3000410	sul1	sul1	sulfonamide resistant sul	sulfonamide antibiotic;sulfone antibiotic	antibiotic target replacement
+391	AEL31272.1	ARO:3002756	QnrB41	QnrB41	quinolone resistance protein (qnr)	fluoroquinolone antibiotic	antibiotic target protection
+392	AEM44648.1	ARO:3001970	CTX-M-110	CTX-M-110	CTX-M beta-lactamase	cephalosporin	antibiotic inactivation
+393	AEM66528.1	ARO:3001809	OXA-209	OXA-209	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+394	AEP40500.1	ARO:3002912	vanN	vanN	glycopeptide resistance gene cluster;van ligase	glycopeptide antibiotic	antibiotic target alteration
+395	AEP40501.1	ARO:3002969	vanXYN	vanXYN	glycopeptide resistance gene cluster;vanXY	glycopeptide antibiotic	antibiotic target alteration
+396	AEP40502.2	ARO:3002975	vanTN	vanTN	glycopeptide resistance gene cluster;vanT	glycopeptide antibiotic	antibiotic target alteration
+397	AEP40503.1	ARO:3002929	vanRN	vanRN	glycopeptide resistance gene cluster;vanR	glycopeptide antibiotic	antibiotic target alteration
+398	AEP40504.1	ARO:3002940	vanSN	vanSN	vanS;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+399	AEP96393.1	ARO:3003723	vanI	vanI	glycopeptide resistance gene cluster;van ligase	glycopeptide antibiotic	antibiotic target alteration
+400	AET10444.1	ARO:3004032	tetA(46)	tetA(46)	ATP-binding cassette (ABC) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+401	AET10445.1	ARO:3004033	tetB(46)	tetB(46)	ATP-binding cassette (ABC) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+402	AET15272.1	ARO:3003197	aadA25	aadA25	ANT(3)	aminoglycoside antibiotic	antibiotic inactivation
+403	AET35493.1	ARO:3001777	OXA-347	OXA-347	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+404	AEV91550.1	ARO:3001710	OXA-211	OXA-211	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+405	AEV91554.1	ARO:3001714	OXA-215	OXA-215	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+406	AEX49906.1	ARO:3003583	basS	basS	pmr phosphoethanolamine transferase	peptide antibiotic	antibiotic target alteration
+407	AEZ36150.1	ARO:3000448	qepA	QepA1	major facilitator superfamily (MFS) antibiotic efflux pump	N/A	antibiotic efflux
+408	AEZ36150.1	ARO:3000448	qepA	QepA1	major facilitator superfamily (MFS) antibiotic efflux pump	fluoroquinolone antibiotic	antibiotic efflux
+409	AFC91828.1	ARO:3003041	Streptococcus pneumoniae PBP1a conferring resistance to amoxicillin	Streptococcus pneumoniae PBP1a conferring resistance to amoxicillin	Penicillin-binding protein mutations conferring resistance to beta-lactam antibiotics	monobactam;carbapenem;cephalosporin;cephamycin;penam	antibiotic target alteration
+410	AFC91898.1	ARO:3003043	Streptococcus pneumoniae PBP2x conferring resistance to amoxicillin	Streptococcus pneumoniae PBP2x conferring resistance to amoxicillin	Penicillin-binding protein mutations conferring resistance to beta-lactam antibiotics	monobactam;carbapenem;cephalosporin;cephamycin;penam	antibiotic target alteration
+411	AFH35853.1	ARO:3001328	Escherichia coli mdfA	Escherichia coli mdfA	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline antibiotic;benzalkonium chloride;rhodamine	antibiotic efflux
+412	AFJ11385.1	ARO:3002666	rmtF	rmtF	16S rRNA methyltransferase (G1405)	aminoglycoside antibiotic	antibiotic target alteration
+413	AFK13828.1	ARO:3000823	ramA	ramA	resistance-nodulation-cell division (RND) antibiotic efflux pump;General Bacterial Porin with reduced permeability to beta-lactams	fluoroquinolone antibiotic;monobactam;carbapenem;cephalosporin;glycylcycline;cephamycin;penam;tetracycline antibiotic;rifamycin antibiotic;phenicol antibiotic;triclosan;penem	antibiotic efflux;reduced permeability to antibiotic
+414	AFK31666.1	ARO:3000567	tet(40)	tet(40)	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+415	AFK58561.1	ARO:3003079	Enterococcus faecium liaS mutant conferring daptomycin resistance	Enterococcus faecium liaS mutant conferring daptomycin resistance	daptomycin resistant liaS	peptide antibiotic	antibiotic target alteration
+416	AFK58562.1	ARO:3003078	Enterococcus faecium liaR mutant conferring daptomycin resistance	Enterococcus faecium liaR mutant conferring daptomycin resistance	daptomycin resistant liaR	peptide antibiotic	antibiotic target alteration
+417	AFK80333.1	ARO:3001313	facT	facT	major facilitator superfamily (MFS) antibiotic efflux pump	elfamycin antibiotic	antibiotic efflux
+418	AFN51819.1	ARO:3003327	Mycobacterium tuberculosis mutant embC conferring resistance to ethambutol	Mycobacterium tuberculosis mutant embC conferring resistance to ethambutol	ethambutol resistant arabinosyltransferase	polyamine antibiotic	antibiotic target alteration
+419	AFN51820.1	ARO:3003453	Mycobacterium tuberculosis embA mutant conferring resistance to ethambutol	Mycobacterium tuberculosis embA mutant conferring resistance to ethambutol	ethambutol resistant arabinosyltransferase	polyamine antibiotic	antibiotic target alteration
+420	AFO09968.1	ARO:3001476	OXA-184	OXA-184	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+421	AFO53532.1	ARO:3002883	rgt1438	rgt1438	rifampin glycosyltransferase	rifamycin antibiotic	antibiotic inactivation
+422	AFP97028.1	ARO:3002228	IMP-37	IMP-37	IMP beta-lactamase	carbapenem;cephalosporin;cephamycin;penam;penem	antibiotic inactivation
+423	AFQ90085.1	ARO:3001610	OXA-243	OXA-243	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+424	AFU35063.1	ARO:3002630	ANT(9)-Ia	ANT(9)-Ia	ANT(9)	aminoglycoside antibiotic	antibiotic inactivation
+425	AFU35065.1	ARO:3003206	lsaE	lsaE	ATP-binding cassette (ABC) antibiotic efflux pump	lincosamide antibiotic;pleuromutilin antibiotic	antibiotic efflux
+426	AGC29882.1	ARO:3002853	arr-8	arr-8	rifampin ADP-ribosyltransferase (Arr)	rifamycin antibiotic	antibiotic inactivation
+427	AGC51118.1	ARO:3000617	mecA	mecA	methicillin resistant PBP2	monobactam;carbapenem;cephalosporin;cephamycin;penam	antibiotic target replacement
+428	AGC60012.1	ARO:3001786	OXA-244	OXA-244	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+429	AGC92784.1	ARO:3000848	DIM-1 beta-lactamase	DIM-1	DIM beta-lactamase	carbapenem;cephalosporin	antibiotic inactivation
+430	AGE00988.1	ARO:3002668	rmtG	rmtG	16S rRNA methyltransferase (G1405)	aminoglycoside antibiotic	antibiotic target alteration
+431	AGH19769.1	ARO:3003198	rmtH	rmtH	16S rRNA methyltransferase (G1405)	aminoglycoside antibiotic	antibiotic target alteration
+432	AGI04227.1	ARO:3003687	APH(3)-VI	APH(3)-VI	APH(3)	aminoglycoside antibiotic	antibiotic inactivation
+433	AGI42804.1	ARO:3002836	lnuB	lnuB	lincosamide nucleotidyltransferase (LNU)	lincosamide antibiotic	antibiotic inactivation
+434	AGN33258.1	ARO:3002829	vgaA	vgaA	ATP-binding cassette (ABC) antibiotic efflux pump	streptogramin antibiotic;pleuromutilin antibiotic	antibiotic efflux
+435	AGN74946	ARO:3003749	salA	salA	ATP-binding cassette (ABC) antibiotic efflux pump	lincosamide antibiotic;streptogramin antibiotic;pleuromutilin antibiotic	antibiotic efflux
+436	AGS82587.1	ARO:3002222	IMP-31	IMP-31	IMP beta-lactamase	carbapenem;cephalosporin;cephamycin;penam;penem	antibiotic inactivation
+437	AGT57825	ARO:3003762	lnuE	lnuE	lincosamide nucleotidyltransferase (LNU)	lincosamide antibiotic	antibiotic inactivation
+438	AGU01679.2	ARO:3003894	Rm3 beta-lactamase	Rm3	Rm3 family beta-lactamase	carbapenem;cephalosporin;penam	antibiotic inactivation
+439	AGV10818.1	ARO:3002669	APH(2)-Ig	APH(2)-Ig	APH(2)	aminoglycoside antibiotic	antibiotic inactivation
+440	AGV10830.1	ARO:3002647	APH(3)-IIIa	APH(3)-IIIa	APH(3)	aminoglycoside antibiotic	antibiotic inactivation
+441	AGV28567.1	ARO:3000559	adeN	adeN	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;lincosamide antibiotic;carbapenem;cephalosporin;tetracycline antibiotic;rifamycin antibiotic;diaminopyrimidine antibiotic;phenicol antibiotic;penem	antibiotic efflux
+442	AGW81558.1	ARO:3002631	spd	spd	ANT(9)	aminoglycoside antibiotic	antibiotic inactivation
+443	AGW83449.1	ARO:3001538	OXA-351	OXA-351	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+444	AGZ55247.1	ARO:3002814	clbA	clbA	Cfr 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic;oxazolidinone antibiotic;phenicol antibiotic;pleuromutilin antibiotic	antibiotic target alteration
+445	AHA11126.1	ARO:3001550	OXA-363	OXA-363	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+446	AHA41499.1	ARO:3002948	vanHO	vanHO	vanH;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+447	AHA41500.1	ARO:3002913	vanO	vanO	glycopeptide resistance gene cluster;van ligase	glycopeptide antibiotic	antibiotic target alteration
+448	AHA41501.1	ARO:3002954	vanXO	vanXO	vanX;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+449	AHA41504.1	ARO:3002941	vanSO	vanSO	vanS;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+450	AHA41505.1	ARO:3002930	vanRO	vanRO	glycopeptide resistance gene cluster;vanR	glycopeptide antibiotic	antibiotic target alteration
+451	AHA80960.1	ARO:3001388	TEM-211	TEM-211	TEM beta-lactamase	monobactam;cephalosporin;penam;penem	antibiotic inactivation
+452	AHB39758.1	ARO:3003013	dfrA15	dfrA15	trimethoprim resistant dihydrofolate reductase dfr	diaminopyrimidine antibiotic	antibiotic target replacement
+453	AHG97174.1	ARO:3003011	dfrA10	dfrA10	trimethoprim resistant dihydrofolate reductase dfr	diaminopyrimidine antibiotic	antibiotic target replacement
+454	AHH83938.1	ARO:3000013	vanB	vanB	glycopeptide resistance gene cluster;van ligase	glycopeptide antibiotic	antibiotic target alteration
+455	AHH86051.1	ARO:3004063	EdeQ	EdeQ	Edeine acetyltransferase	peptide antibiotic;polyamine antibiotic	antibiotic inactivation
+456	AHJ02283.1	ARO:3003186	CARB-23	CARB-23	CARB beta-lactamase	penam	antibiotic inactivation
+457	AHV80711.1	ARO:3002863	dfrA8	dfrA8	trimethoprim resistant dihydrofolate reductase dfr	diaminopyrimidine antibiotic	antibiotic target replacement
+458	AHW42429.1	ARO:3002858	dfrA12	dfrA12	trimethoprim resistant dihydrofolate reductase dfr	diaminopyrimidine antibiotic	antibiotic target replacement
+459	AIA08936.1	ARO:3000444	rphA	rphA	rifampin phosphotransferase	rifamycin antibiotic	antibiotic inactivation
+460	AIA09786.1	ARO:3000861	rmtC	rmtC	16S rRNA methyltransferase (G1405)	aminoglycoside antibiotic	antibiotic target alteration
+461	AIA58910.1	ARO:3002236	IMP-45	IMP-45	IMP beta-lactamase	carbapenem;cephalosporin;cephamycin;penam;penem	antibiotic inactivation
+462	AIA58911.1	ARO:3001396	OXA-1	OXA-1	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+463	AIL15701	ARO:3003775	Escherichia coli murA with mutation conferring resistance to fosfomycin	Escherichia coli murA with mutation conferring resistance to fosfomycin	murA transferase	fosfomycin	antibiotic target alteration
+464	AIN56719.1	ARO:3002496	OXA-418	OXA-418	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+465	AIT76100.1	ARO:3002152	DHA-21	DHA-21	DHA beta-lactamase	cephalosporin;cephamycin	antibiotic inactivation
+466	AIT76110.1	ARO:3002239	IMP-48	IMP-48	IMP beta-lactamase	carbapenem;cephalosporin;cephamycin;penam;penem	antibiotic inactivation
+467	AIT76113.1	ARO:3002174	MIR-9	MIR-9	MIR beta-lactamase	monobactam;cephalosporin;cephamycin	antibiotic inactivation
+468	AIY26289.1	ARO:3003194	GIM-2	GIM-2	GIM beta-lactamase	monobactam;carbapenem;cephalosporin;cephamycin;penam;penem	antibiotic inactivation
+469	AJA36815.1	ARO:3003193	QnrVC7	QnrVC7	quinolone resistance protein (qnr)	fluoroquinolone antibiotic	antibiotic target protection
+470	AJD73064.1	ARO:3001301	RlmA(II)	RlmA(II)	non-erm 23S ribosomal RNA methyltransferase (G748)	macrolide antibiotic;lincosamide antibiotic	antibiotic target alteration
+471	AJE60855.1	ARO:3003209	FosA5	FosA5	fosfomycin thiol transferase	fosfomycin	antibiotic inactivation
+472	AJF82049.1	ARO:3003573	LpxA	LpxA	Acinetobacter mutant Lpx gene conferring resistance to colistin	peptide antibiotic	antibiotic target alteration
+473	AJF83452.1	ARO:3003574	LpxC	LpxC	Acinetobacter mutant Lpx gene conferring resistance to colistin	peptide antibiotic	antibiotic target alteration
+474	AJK71171.1	ARO:3003789	Campylobacter jejuni gyrA conferring resistance to fluoroquinolones	Campylobacter jejuni gyrA conferring resistance to fluoroquinolones	fluoroquinolone resistant gyrA	fluoroquinolone antibiotic;nybomycin	antibiotic target alteration
+475	AJP77054	ARO:3003716	CPS-1	CPS-1	CPS beta-lactamase	carbapenem	antibiotic inactivation
+476	AJP77057	ARO:3003718	MSI-1	MSI-1	MSI beta-lactamase	carbapenem	antibiotic inactivation
+477	AJP77058	ARO:3003719	MSI-OXA	MSI-OXA	MSI-OXA family beta-lactamase	carbapenem	antibiotic inactivation
+478	AJP77059	ARO:3003670	PEDO-1	PEDO-1	subclass B3 PEDO beta-lactamase	carbapenem	antibiotic inactivation
+479	AJP77071	ARO:3003714	PEDO-2	PEDO-2	subclass B3 PEDO beta-lactamase	carbapenem	antibiotic inactivation
+480	AJP77076	ARO:3003715	PEDO-3	PEDO-3	subclass B1 PEDO beta-lactamase	carbapenem	antibiotic inactivation
+481	AJP77080	ARO:3003720	SPG-1	SPG-1	SPG beta-lacatamase	carbapenem	antibiotic inactivation
+482	AJP77085	ARO:3003717	ESP-1	ESP-1	ESP beta-lactamase	carbapenem	antibiotic inactivation
+483	AKF16168	ARO:3003689	MCR-1	MCR-1	MCR phosphoethanolamine transferase	peptide antibiotic	antibiotic target alteration
+484	AKJ52802.1	ARO:3003310	Mycoplasma hominis parC conferring resistance to fluoroquinolone	Mycoplasma hominis parC conferring resistance to fluoroquinolone	fluoroquinolone resistant parC;fluoroquinolone self resistant parC	fluoroquinolone antibiotic	antibiotic target alteration
+485	AKN19287.1	ARO:3002578	AAC(6)-Ib7	AAC(6)-Ib7	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+486	ALH22601.1	ARO:3000620	adeL	adeL	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;tetracycline antibiotic	antibiotic efflux
+487	ALL09868	ARO:3003092	Enterococcus faecium cls conferring resistance to daptomycin	Enterococcus faecium cls conferring resistance to daptomycin	daptomycin resistant cls	peptide antibiotic	antibiotic target alteration
+488	ALU64000	ARO:3003713	VCC-1	VCC-1	VCC beta-lactamase	monobactam;carbapenem;penam	antibiotic inactivation
+489	ALX06067.1	ARO:3000594	ErmR	ErmR	Erm 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic	antibiotic target alteration
+490	ALX99516.1	ARO:3003811	adeC	adeC	resistance-nodulation-cell division (RND) antibiotic efflux pump	glycylcycline;tetracycline antibiotic	antibiotic efflux
+491	AML99881.1	ARO:3001327	mdtK	MdtK	multidrug and toxic compound extrusion (MATE) transporter	fluoroquinolone antibiotic	antibiotic efflux
+492	AMP35312.1	ARO:3002831	vgaC	vgaC	ATP-binding cassette (ABC) antibiotic efflux pump	streptogramin antibiotic;pleuromutilin antibiotic	antibiotic efflux
+493	AMY61250.1	ARO:3004092	HMB-1 beta-lactamase	HMB-1	HMB beta-lactamase	carbapenem	antibiotic inactivation
+494	ANK04027.1	ARO:3003838	gadW	gadW	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;penam	antibiotic efflux
+495	ANP63073.1	ARO:3003741	mphD	mphD	macrolide phosphotransferase (MPH)	macrolide antibiotic	antibiotic inactivation
+496	ANZ79240.1	ARO:3004035	tetA(60)	tetA(60)	ATP-binding cassette (ABC) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+497	ANZ79241.1	ARO:3004036	tetB(60)	tetB(60)	ATP-binding cassette (ABC) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+498	ANZ79476.1	ARO:3003908	Erm(47)	Erm(47)	Erm 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic	antibiotic target alteration
+499	APB03214.1	ARO:3003980	tetA(48)	tetA(48)	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+500	APB03215.1	ARO:3003981	tetB(48)	tetB(48)	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+501	APB03216.1	ARO:3003982	LlmA 23S ribosomal RNA methyltransferase	LlmA 23S ribosomal RNA methyltransferase	Llm 23S ribosomal RNA methyltransferase	lincosamide antibiotic	antibiotic target alteration
+502	APB03217.1	ARO:3003983	CatU	CatU	chloramphenicol acetyltransferase (CAT)	phenicol antibiotic	antibiotic inactivation
+503	APB03218.1	ARO:3003984	BahA	BahA	Bah amidohydrolase	peptide antibiotic	antibiotic inactivation
+504	APB03219.1	ARO:3003986	TaeA	TaeA	ATP-binding cassette (ABC) antibiotic efflux pump	pleuromutilin antibiotic	antibiotic efflux
+505	APB03220.1	ARO:3003987	VatI	VatI	streptogramin vat acetyltransferase	streptogramin antibiotic	antibiotic inactivation
+506	APB03221.1	ARO:3003988	AAC(2)-IIb	AAC(2)-IIb	AAC(2)	aminoglycoside antibiotic	antibiotic inactivation
+507	APB03222.1	ARO:3003992	rphB	rphB	rifampin phosphotransferase	rifamycin antibiotic	antibiotic inactivation
+508	APB03223.1	ARO:3003989	AAC(6)-34	AAC(6)-34	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+509	APB03224.1	ARO:3003994	cpaA	cpaA	cpa acetyltransferase	aminoglycoside antibiotic	antibiotic inactivation
+510	APB03225.1	ARO:3003990	VgbC	vgbC	streptogramin vgb lyase	streptogramin antibiotic	antibiotic inactivation
+511	APB03226.1	ARO:3003991	mphI	mphI	macrolide phosphotransferase (MPH)	macrolide antibiotic	antibiotic inactivation
+512	APU52409.1	ARO:3004085	lnuG	lnuG	lincosamide nucleotidyltransferase (LNU)	lincosamide antibiotic	antibiotic inactivation
+513	BAA03402.1	ARO:3001306	ErmW	ErmW	Erm 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic	antibiotic target alteration
+514	BAA03674.1	ARO:3001300	myrA	myrA	non-erm 23S ribosomal RNA methyltransferase (G748)	macrolide antibiotic;lincosamide antibiotic	antibiotic target alteration
+515	BAA03776.1	ARO:3000316	mphA	mphA	macrolide phosphotransferase (MPH)	macrolide antibiotic	antibiotic inactivation
+516	BAA07390.1	ARO:3002893	tcr3	tcr3	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+517	BAA11236.1	ARO:3000206	emrK	emrK	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+518	BAA11237.1	ARO:3000254	emrY	emrY	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+519	BAA12910.1	ARO:3000318	mphB	mphB	macrolide phosphotransferase (MPH)	macrolide antibiotic	antibiotic inactivation
+520	BAA15934.1	ARO:3000829	baeS	baeS	resistance-nodulation-cell division (RND) antibiotic efflux pump	aminoglycoside antibiotic;aminocoumarin antibiotic	antibiotic efflux
+521	BAA16547.1	ARO:3000027	emrA	emrA	major facilitator superfamily (MFS) antibiotic efflux pump	fluoroquinolone antibiotic	antibiotic efflux
+522	BAA23130.1	ARO:3002493	SRT-1	SRT-1	SRT beta-lactamase	cephalosporin	antibiotic inactivation
+523	BAA32493.1	ARO:3000423	FomA	FomA	Fom phosphotransferase family	fosfomycin	antibiotic inactivation
+524	BAA32494.1	ARO:3000449	FomB	FomB	Fom phosphotransferase family	fosfomycin	antibiotic inactivation
+525	BAA34300.1	ARO:3003033	mexY	mexY	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;aminoglycoside antibiotic;carbapenem;cephalosporin;cephamycin;penam;tetracycline antibiotic;acridine dye;phenicol antibiotic	antibiotic efflux
+526	BAA37152.1	ARO:3003702	Pseudomonas aeruginosa gyrA and parC conferring resistance to fluoroquinolone	Pseudomonas aeruginosa gyrA and parC conferring resistance to fluoroquinolone	fluoroquinolone resistant parC;fluoroquinolone resistant gyrA;fluoroquinolone self resistant parC	fluoroquinolone antibiotic;nybomycin	antibiotic target alteration
+527	BAA78619.1	ARO:3002544	AAC(3)-Xa	AAC(3)-Xa	AAC(3)	aminoglycoside antibiotic	antibiotic inactivation
+528	BAB20748.1	ARO:3002825	ErmY	ErmY	Erm 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic	antibiotic target alteration
+529	BAB41258.1	ARO:3000124	mecI	mecI	methicillin resistant PBP2	monobactam;carbapenem;cephalosporin;cephamycin;penam	antibiotic target replacement
+530	BAB59035.1	ARO:3002870	tet34	tet34	tetracycline inactivation enzyme	tetracycline antibiotic	antibiotic target alteration;antibiotic inactivation
+531	BAC11901.1	ARO:3002670	cat	cat	chloramphenicol acetyltransferase (CAT)	phenicol antibiotic	antibiotic inactivation
+532	BAC11911.1	ARO:3003551	emeA	emeA	multidrug and toxic compound extrusion (MATE) transporter	acridine dye	antibiotic efflux
+533	BAC20579.1	ARO:3000859	rmtA	rmtA	16S rRNA methyltransferase (G1405)	aminoglycoside antibiotic	antibiotic target alteration
+534	BAD00739.1	ARO:3002607	aadA7	aadA7	ANT(3)	aminoglycoside antibiotic	antibiotic inactivation
+535	BAD10948.2	ARO:3002563	AAC(6)-Isa	AAC(6)-Isa	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+536	BAD11815.1	ARO:3002593	AAC(6)-Ib-SK	AAC(6)-Ib-SK	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+537	BAD12078.1	ARO:3002572	AAC(6)-Iad	AAC(6)-Iad	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+538	BAD14386.1	ARO:3002573	AAC(6)-Iae	AAC(6)-Iae	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+539	BAD63613.1	ARO:3002816	clbC	clbC	Cfr 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic;oxazolidinone antibiotic;phenicol antibiotic;pleuromutilin antibiotic	antibiotic target alteration
+540	BAD89844.2	ARO:3000753	abeM	abeM	multidrug and toxic compound extrusion (MATE) transporter	fluoroquinolone antibiotic;acridine dye;triclosan	antibiotic efflux
+541	BAD95494.1	ARO:3002895	SAT-1	SAT-2	streptothricin acetyltransferase (SAT)	nucleoside antibiotic	antibiotic inactivation
+542	BAE06005.1	ARO:3003704	mexM	mexM	resistance-nodulation-cell division (RND) antibiotic efflux pump	phenicol antibiotic	antibiotic efflux
+543	BAE06006.1	ARO:3003705	mexN	mexN	resistance-nodulation-cell division (RND) antibiotic efflux pump	phenicol antibiotic	antibiotic efflux
+544	BAE06007.1	ARO:3003698	mexP	mexP	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;carbapenem;tetracycline antibiotic;acridine dye;diaminopyrimidine antibiotic;phenicol antibiotic	antibiotic efflux
+545	BAE06008.1	ARO:3003699	mexQ	mexQ	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;carbapenem;tetracycline antibiotic;acridine dye;diaminopyrimidine antibiotic;phenicol antibiotic	antibiotic efflux
+546	BAE06009.1	ARO:3003700	opmE	opmE	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;carbapenem;tetracycline antibiotic;acridine dye;diaminopyrimidine antibiotic;phenicol antibiotic	antibiotic efflux
+547	BAE15963.1	ARO:3002868	dfrG	dfrG	trimethoprim resistant dihydrofolate reductase dfr	diaminopyrimidine antibiotic	antibiotic target replacement
+548	BAE77595.1	ARO:3003303	Escherichia coli gyrB conferring resistance to aminocoumarin	Escherichia coli gyrB conferring resistance to aminocoumarin	aminocoumarin resistant gyrB	aminocoumarin antibiotic	antibiotic target alteration
+549	BAE77781.1	ARO:3000795	mdtE	mdtE	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;penam	antibiotic efflux
+550	BAE77933.1	ARO:3000518	CRP	CRP	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;penam	antibiotic efflux
+551	BAE78082.1	ARO:3003550	mdtP	mdtP	major facilitator superfamily (MFS) antibiotic efflux pump	nucleoside antibiotic;acridine dye	antibiotic efflux
+552	BAE78083.1	ARO:3003549	mdtO	mdtO	major facilitator superfamily (MFS) antibiotic efflux pump	nucleoside antibiotic;acridine dye	antibiotic efflux
+553	BAE78084.1	ARO:3003548	mdtN	mdtN	major facilitator superfamily (MFS) antibiotic efflux pump	nucleoside antibiotic;acridine dye	antibiotic efflux
+554	BAE78116.1	ARO:3003576	PmrC	PmrC	pmr phosphoethanolamine transferase	peptide antibiotic	antibiotic target alteration
+555	BAF80809.1	ARO:3002665	npmA	npmA	16S rRNA methyltransferase (A1408)	aminoglycoside antibiotic	antibiotic target alteration
+556	BAF91108.1	ARO:3000847	KHM-1 beta-lactamase	KHM-1	KHM beta-latamase	carbapenem;cephalosporin;cephamycin;penam;penem	antibiotic inactivation
+557	BAG33043.1	ARO:3003920	pgpB	pgpB	lipid A phosphatase	peptide antibiotic	antibiotic target alteration
+558	BAG75524.1	ARO:3003954	efmA	efmA	major facilitator superfamily (MFS) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic	antibiotic efflux
+559	BAI83385.1	ARO:3003440	mecB	mecB	methicillin resistant PBP2	monobactam;carbapenem;cephalosporin;cephamycin;penam	antibiotic target replacement
+560	BAJ09383.1	ARO:3003046	qacA	qacA	major facilitator superfamily (MFS) antibiotic efflux pump	fluoroquinolone antibiotic	antibiotic efflux
+561	BAJ10053.1	ARO:3002874	FosC2	FosC2	fosC phosphotransferase family	fosfomycin	antibiotic inactivation
+562	BAJ17544.1	ARO:3002069	CMY-59	CMY-59	CMY beta-lactamase	cephamycin	antibiotic inactivation
+563	BAL14456.1	ARO:3000854	SMB-1 beta-lactamase	SMB-1	SMB beta-lactamase	carbapenem;cephalosporin;penam	antibiotic inactivation
+564	BAL43359	ARO:3003742	mphG	mphG	macrolide phosphotransferase (MPH)	macrolide antibiotic	antibiotic inactivation
+565	BAL43360	ARO:3003745	mefC	mefC	major facilitator superfamily (MFS) antibiotic efflux pump	macrolide antibiotic	antibiotic efflux
+566	BAL75272.1	ARO:3000856	BJP-1 beta-lactamase	BJP-1	BJP beta-lactamase	carbapenem	antibiotic inactivation
+567	BAM10414.1	ARO:3003039	oprA	OprA	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;aminoglycoside antibiotic;carbapenem;tetracycline antibiotic	antibiotic efflux
+568	BAM38093.1	ARO:3002225	IMP-34	IMP-34	IMP beta-lactamase	carbapenem;cephalosporin;cephamycin;penam;penem	antibiotic inactivation
+569	BAM46120.1	ARO:3003677	AAC(6)-Iaj	AAC(6)-Iaj	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+570	BAM76830.1	ARO:3002993	AQU-1	AQU-1	AQU beta-lactamase	cephalosporin	antibiotic inactivation
+571	BAO21229.1	ARO:3003199	AAC(6)-Iak	AAC(6)-Iak	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+572	BAO79432.1	ARO:3000785	cmeC	cmeC	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;cephalosporin;fusidic acid	antibiotic efflux
+573	BAO79439.1	ARO:3002362	NDM-12	NDM-12	NDM beta-lactamase	carbapenem;cephalosporin;cephamycin;penam	antibiotic inactivation
+574	BAO79518.1	ARO:3003207	FosK	FosK	fosfomycin thiol transferase	fosfomycin	antibiotic inactivation
+575	BAP18892.1	ARO:3003210	FosA4	FosA4	fosfomycin thiol transferase	fosfomycin	antibiotic inactivation
+576	BAP28835.1	ARO:3003116	OXA-420	OXA-420	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+577	BAP34782.1	ARO:3002008	CTX-M-151	CTX-M-151	CTX-M beta-lactamase	cephalosporin	antibiotic inactivation
+578	CAA01212.1	ARO:3000363	EreB	EreB	macrolide esterase	macrolide antibiotic	antibiotic inactivation
+579	CAA03986.1	ARO:3000343	tap	tap	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+580	CAA11706.1	ARO:3001303	ErmO	ErmO	Erm 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic	antibiotic target alteration
+581	CAA11707.1	ARO:3000463	gimA	gimA	gimA family macrolide glycosyltransferase	macrolide antibiotic	antibiotic inactivation
+582	CAA24743.1	ARO:3002655	APH(4)-Ia	APH(4)-Ia	APH(4)	aminoglycoside antibiotic	antibiotic inactivation
+583	CAA25854.1	ARO:3002659	APH(6)-Ic	APH(6)-Ic	APH(6)	aminoglycoside antibiotic	antibiotic inactivation
+584	CAA26235.1	ARO:3003061	viomycin phosphotransferase	vph	viomycin phosphotransferase	peptide antibiotic	antibiotic inactivation
+585	CAA27061.1	ARO:3002648	APH(3)-IVa	APH(3)-IVa	APH(3)	aminoglycoside antibiotic	antibiotic inactivation
+586	CAA27276.1	ARO:3002661	APH(7)-Ia	APH(7)-Ia	APH(7)	aminoglycoside antibiotic	antibiotic inactivation
+587	CAA29136.1	ARO:3002658	APH(6)-Ib	APH(6)-Ib	APH(6)	aminoglycoside antibiotic	antibiotic inactivation
+588	CAA30695.1	ARO:3002685	catIII	catIII	chloramphenicol acetyltransferase (CAT)	phenicol antibiotic	antibiotic inactivation
+589	CAA33795.1	ARO:3003563	RCP-1	RCP-1	RCP beta-lactamase	penam	antibiotic inactivation
+590	CAA37052.1	ARO:3002995	ROB-1	ROB-1	ROB beta-lactamase	cephalosporin;penam	antibiotic inactivation
+591	CAA37477.1	ARO:3002891	otr(A)	otr(A)	tetracycline-resistant ribosomal protection protein	tetracycline antibiotic	antibiotic target protection
+592	CAA37605.1	ARO:3002638	APH(3)-Ia	APH(3)-Ia	APH(3)	aminoglycoside antibiotic	antibiotic inactivation
+593	CAA37699.1	ARO:3003565	r39 beta-lactamase	R39	R39 beta-lactamase	penam	antibiotic inactivation
+594	CAA37806.1	ARO:3002684	catII	catII	chloramphenicol acetyltransferase (CAT)	phenicol antibiotic	antibiotic inactivation
+595	CAA38525.1	ARO:3002535	AAC(3)-IIc	AAC(3)-IIc	AAC(3)	aminoglycoside antibiotic	antibiotic inactivation
+596	CAA39038.1	ARO:3002553	AAC(6)-If	AAC(6)-If	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+597	CAA39184.1	ARO:3002536	AAC(3)-IIIa	AAC(3)-IIIa	AAC(3)	aminoglycoside antibiotic	antibiotic inactivation
+598	CAA40146.1	ARO:3002997	LCR-1	LCR-1	LCR beta-lactamase	cephalosporin;penam	antibiotic inactivation
+599	CAA41211.1	ARO:3001400	OXA-5	OXA-5	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+600	CAA43218.1	ARO:3002670	cat	cat	chloramphenicol acetyltransferase (CAT)	phenicol antibiotic	antibiotic inactivation
+601	CAA44667.1	ARO:3001305	ErmU	ErmU	Erm 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic	antibiotic target alteration
+602	CAA45050.1	ARO:3002828	srmB	srmB	ATP-binding cassette (ABC) antibiotic efflux pump	macrolide antibiotic	antibiotic efflux
+603	CAA52372.1	ARO:3002656	APH(4)-Ib	APH(4)-Ib	APH(4)	aminoglycoside antibiotic	antibiotic inactivation
+604	CAA52904.1	ARO:3002688	catS	catS	chloramphenicol acetyltransferase (CAT)	phenicol antibiotic	antibiotic inactivation
+605	CAA55486.1	ARO:3003459	Mycobacterium tuberculosis gyrB mutant conferring resistance to fluoroquinolone	Mycobacterium tuberculosis gyrB mutant conferring resistance to fluoroquinolone	fluoroquinolone resistant gyrB	fluoroquinolone antibiotic;aminocoumarin antibiotic	antibiotic target alteration
+606	CAA56561.1	ARO:3003553	CepS beta-lactamase	CepS	CepS beta-lactamase	cephalosporin	antibiotic inactivation
+607	CAA62365.1	ARO:3002645	APH(3)-IIb	APH(3)-IIb	APH(3)	aminoglycoside antibiotic	antibiotic inactivation
+608	CAA63498.2	ARO:3002670	cat	cat	chloramphenicol acetyltransferase (CAT)	phenicol antibiotic	antibiotic inactivation
+609	CAA64891.1	ARO:3000812	mtrE	mtrE	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;penam	antibiotic efflux
+610	CAA66307.2	ARO:3000592	ErmN	ErmN	Erm 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic	antibiotic target alteration
+611	CAA67349.1	ARO:3003359	Streptomyces cinnamoneus EF-Tu mutants conferring resistance to elfamycin	Streptomyces cinnamoneus EF-Tu mutants conferring resistance to elfamycin	elfamycin resistant EF-Tu;kirromycin self resistant EF-Tu	elfamycin antibiotic	antibiotic target alteration
+612	CAA68516.1	ARO:3002657	APH(6)-Ia	APH(6)-Ia	APH(6)	aminoglycoside antibiotic	antibiotic inactivation
+613	CAA71325.1	ARO:3002156	FOX-2	FOX-2	FOX beta-lactamase	cephalosporin;cephamycin	antibiotic inactivation
+614	CAA71441.1	ARO:3003095	imiS	imiS	CphA beta-lactamase	carbapenem	antibiotic inactivation
+615	CAA75663.1	ARO:3000175	tet(H)	tet(H)	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+616	CAA77936.1	ARO:3004039	Escherichia coli emrE	Escherichia coli emrE	small multidrug resistance (SMR) antibiotic efflux pump	macrolide antibiotic	antibiotic efflux
+617	CAA79727.1	ARO:3000191	tetQ	tetQ	tetracycline-resistant ribosomal protection protein	tetracycline antibiotic	antibiotic target protection
+618	CAA79966.1	ARO:3003665	NmcR	NmcR	NmcA beta-lactamase	carbapenem;cephalosporin;cephamycin;penam	antibiotic inactivation
+619	CAA79968.1	ARO:3002363	PER-1	PER-1	PER beta-lactamase	monobactam;carbapenem;cephalosporin;penam;penem	antibiotic inactivation
+620	CAA83855.1	ARO:3000380	FosC	FosC	fosC phosphotransferase family	fosfomycin	antibiotic inactivation
+621	CAA88265.1	ARO:3002898	SAT-3	SAT-3	streptothricin acetyltransferase (SAT)	nucleoside antibiotic	antibiotic inactivation
+622	CAA90432.1	ARO:3003026	fusH	fusH	fusidic acid inactivation enzyme	fusidic acid	antibiotic inactivation
+623	CAA91010.1	ARO:3002559	AAC(6)-Ip	AAC(6)-Ip	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+624	CAB12062.1	ARO:3003028	lmrA	lmrA	ATP-binding cassette (ABC) antibiotic efflux pump	lincosamide antibiotic	antibiotic target alteration;antibiotic efflux
+625	CAB12108.2	ARO:3003059	tmrB	tmrB	tunicamycin resistance protein	nucleoside antibiotic	reduced permeability to antibiotic
+626	CAB13166.1	ARO:3003063	ykkC	ykkC	small multidrug resistance (SMR) antibiotic efflux pump	aminoglycoside antibiotic;tetracycline antibiotic;phenicol antibiotic	antibiotic efflux
+627	CAB13167.1	ARO:3003064	ykkD	ykkD	small multidrug resistance (SMR) antibiotic efflux pump	aminoglycoside antibiotic;tetracycline antibiotic;phenicol antibiotic	antibiotic efflux
+628	CAB14620.1	ARO:3002627	aadK	aadK	ANT(6)	aminoglycoside antibiotic	antibiotic inactivation
+629	CAB60001.1	ARO:3000326	ErmE	ErmE	Erm 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic	antibiotic target alteration
+630	CAB75346.1	ARO:3000582	L1 beta-lactamase	L1 beta-lactamase	L1 family beta-lactamase	cephalosporin	antibiotic inactivation
+631	CAB96921.1	ARO:3000606	FEZ-1 beta-lactamase	FEZ-1	FEZ beta-lactamase	carbapenem;cephalosporin;penam	antibiotic inactivation
+632	CAC14594.1	ARO:3003055	smeD	smeD	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;tetracycline antibiotic;phenicol antibiotic	antibiotic efflux
+633	CAC14595.1	ARO:3003056	smeE	smeE	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;tetracycline antibiotic;phenicol antibiotic	antibiotic efflux
+634	CAC14596.1	ARO:3003057	smeF	smeF	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;tetracycline antibiotic;phenicol antibiotic	antibiotic efflux
+635	CAC19929.1	ARO:3002854	dfrA1	dfrA1	trimethoprim resistant dihydrofolate reductase dfr	diaminopyrimidine antibiotic	antibiotic target replacement
+636	CAC29514.1	ARO:3003298	Mycobaterium leprae gyrA conferring resistance to fluoroquinolones	Mycobaterium leprae gyrA conferring resistance to fluoroquinolones	fluoroquinolone resistant gyrA	fluoroquinolone antibiotic;nybomycin	antibiotic target alteration
+637	CAC29732.1	ARO:3003389	Mycobacterium leprae folP with mutation conferring resistance to dapsone	Mycobacterium leprae folP with mutation conferring resistance to dapsone	dapsone resistant dihydropteroate synthase folP	sulfonamide antibiotic;sulfone antibiotic	antibiotic target alteration
+638	CAC30845.1	ARO:3003284	Mycobacterium leprae rpoB mutations conferring resistance to rifampicin	Mycobacterium leprae rpoB mutations conferring resistance to rifampicin	rifamycin-resistant beta-subunit of RNA polymerase (rpoB)	peptide antibiotic;rifamycin antibiotic	antibiotic target alteration;antibiotic target replacement
+639	CAC33832.1	ARO:3000851	THIN-B beta-lactamase	THIN-B	THIN-B beta-lactamase	carbapenem;cephalosporin;penam	antibiotic inactivation
+640	CAC35728.1	ARO:3001424	OXA-29	OXA-29	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+641	CAC41008.1	ARO:3004041	Klebsiella pneumoniae acrA	Klebsiella pneumoniae acrA	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;cephalosporin;glycylcycline;penam;tetracycline antibiotic;rifamycin antibiotic;phenicol antibiotic;triclosan	antibiotic efflux
+642	CAC41371.2	ARO:3000196	tet32	tet32	tetracycline-resistant ribosomal protection protein	tetracycline antibiotic	antibiotic target protection
+643	CAC80727.1	ARO:3000476	tet(31)	tet(31)	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+644	CAC81324.1	ARO:3003015	dfrA19	dfrA19	trimethoprim resistant dihydrofolate reductase dfr	diaminopyrimidine antibiotic	antibiotic target replacement
+645	CAC84275.1	ARO:3002670	cat	cat	chloramphenicol acetyltransferase (CAT)	phenicol antibiotic	antibiotic inactivation
+646	CAC87665.1	ARO:3000855	CAU-1 beta-lactamase	CAU-1	CAU beta-lactamase	carbapenem;penam	antibiotic inactivation
+647	CAD09823.1	ARO:3003479	tetR	tetR	major facilitator superfamily (MFS) antibiotic efflux pump	glycylcycline;tetracycline antibiotic	antibiotic target alteration;antibiotic efflux
+648	CAD12227.2	ARO:3000478	tet(33)	tet(33)	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+649	CAD32565.1	ARO:3001770	OXA-43	OXA-43	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+650	CAD37801.1	ARO:3003793	SPM-1	SPM-1	SPM beta-lactamase	carbapenem	antibiotic inactivation
+651	CAD53575.1	ARO:3002531	AAC(3)-Ic	AAC(3)-Ic	AAC(3)	aminoglycoside antibiotic	antibiotic inactivation
+652	CAD55718.1	ARO:3000197	tet36	tet36	tetracycline-resistant ribosomal protection protein	tetracycline antibiotic	antibiotic target protection
+653	CAD58780.1	ARO:3001794	OXA-45	OXA-45	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+654	CAD61201.1	ARO:3002277	VIM-7	VIM-7	VIM beta-lactamase	carbapenem;cephalosporin;cephamycin;penam;penem	antibiotic inactivation
+655	CAD91132.1	ARO:3002839	lnuF	lnuF	lincosamide nucleotidyltransferase (LNU)	lincosamide antibiotic	antibiotic inactivation
+656	CAE00499.1	ARO:3003835	cdeA	cdeA	multidrug and toxic compound extrusion (MATE) transporter	fluoroquinolone antibiotic;acridine dye	antibiotic efflux
+657	CAE48335.2	ARO:3002599	AAC(6)-30/AAC(6)-Ib fusion protein	AAC(6)-30/AAC(6)-Ib fusion protein	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+658	CAE50925.1	ARO:3002589	AAC(6)-Iid	AAC(6)-Iid	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+659	CAE50926.1	ARO:3002590	AAC(6)-Iih	AAC(6)-Iih	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+660	CAE51638.1	ARO:3002641	APH(3)-Ia	APH(3)-Ia	APH(3)	aminoglycoside antibiotic	antibiotic inactivation
+661	CAE51745.1	ARO:3000168	tet(D)	tet(D)	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+662	CAE53424.1	ARO:3003016	dfrA20	dfrA20	trimethoprim resistant dihydrofolate reductase dfr	diaminopyrimidine antibiotic	antibiotic target replacement
+663	CAG27800.1	ARO:3003203	TLA-2	TLA-2	TLA beta-lactamase	fluoroquinolone antibiotic;monobactam;cephalosporin	antibiotic inactivation
+664	CAG34233.2	ARO:3003019	dfrA23	dfrA23	trimethoprim resistant dihydrofolate reductase dfr	diaminopyrimidine antibiotic	antibiotic target replacement
+665	CAI47810.1	ARO:3003110	catB10	catB10	chloramphenicol acetyltransferase (CAT)	phenicol antibiotic	antibiotic inactivation
+666	CAI57696.1	ARO:3002614	aadA14	aadA14	ANT(3)	aminoglycoside antibiotic	antibiotic inactivation
+667	CAI99385.1	ARO:3002856	dfrA24	dfrA24	trimethoprim resistant dihydrofolate reductase dfr	diaminopyrimidine antibiotic	antibiotic target replacement
+668	CAJ51085.1	ARO:3000319	mphC	mphC	macrolide phosphotransferase (MPH)	macrolide antibiotic	antibiotic inactivation
+669	CAJ67339.1	ARO:3000186	tetM	tetM	tetracycline-resistant ribosomal protection protein	tetracycline antibiotic	antibiotic target protection
+670	CAJ77855.1	ARO:3000779	adeH	adeH	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;tetracycline antibiotic	antibiotic efflux
+671	CAJ77856.1	ARO:3000777	adeF	adeF	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;tetracycline antibiotic	antibiotic efflux
+672	CAJ77857.1	ARO:3000778	adeG	adeG	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;tetracycline antibiotic	antibiotic efflux
+673	CAK55557.1	ARO:3002585	AAC(6)-31	AAC(6)-31	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+674	CAL44992.1	ARO:3002835	lnuA	lnuA	lincosamide nucleotidyltransferase (LNU)	lincosamide antibiotic	antibiotic inactivation
+675	CAL48457.1	ARO:3002857	dfrA26	dfrA26	trimethoprim resistant dihydrofolate reductase dfr	diaminopyrimidine antibiotic	antibiotic target replacement
+676	CAL64019.1	ARO:3003441	cfrA	cfrA	Cfr 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic;oxazolidinone antibiotic;phenicol antibiotic;pleuromutilin antibiotic	antibiotic target alteration
+677	CAP12359.2	ARO:3002452	OKP-B-19	OKP-B-19	OKP beta-lactamase	cephalosporin;penam	antibiotic inactivation
+678	CAP69659.1	ARO:3003017	dfrA21	dfrA21	trimethoprim resistant dihydrofolate reductase dfr	diaminopyrimidine antibiotic	antibiotic target replacement
+679	CAQ03505.1	ARO:3001338	SHV-100	SHV-100	SHV beta-lactamase	carbapenem;cephalosporin;penam	antibiotic inactivation
+680	CAQ53840.1	ARO:3000853	AIM-1	AIM-1	AIM beta-lactamase	cephalosporin;cephamycin;penam	antibiotic inactivation
+681	CAX52582.1	ARO:3003324	Bacillus subtilis mprF	Bacillus subtilis mprF	defensin resistant mprF	peptide antibiotic	antibiotic target alteration
+682	CAZ48628.1	ARO:3002852	arr-7	arr-7	rifampin ADP-ribosyltransferase (Arr)	rifamycin antibiotic	antibiotic inactivation
+683	CBH51823.1	ARO:3000556	tet44	tet44	tetracycline-resistant ribosomal protection protein	tetracycline antibiotic	antibiotic target protection
+684	CBH51824.1	ARO:3002629	ANT(6)-Ib	ANT(6)-Ib	ANT(6)	aminoglycoside antibiotic	antibiotic inactivation
+685	CBL58181.1	ARO:3003918	apmA	apmA	amp acetyltransferase	aminoglycoside antibiotic	antibiotic inactivation
+686	CBW46935.1	ARO:3001959	CTX-M-100	CTX-M-100	CTX-M beta-lactamase	cephalosporin	antibiotic inactivation
+687	CBY77552.1	ARO:3003106	Erm(42)	Erm(42)	Erm 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic	antibiotic target alteration
+688	CBY88983.1	ARO:3002833	vgaE	vgaE	ATP-binding cassette (ABC) antibiotic efflux pump	streptogramin antibiotic;pleuromutilin antibiotic	antibiotic efflux
+689	CCE36834	ARO:3003784	Mycobacterium tuberculosis intrinsic murA conferring resistance to fosfomycin	Mycobacterium tuberculosis intrinsic murA conferring resistance to fosfomycin	murA transferase	fosfomycin	antibiotic target alteration
+690	CCE73593.2	ARO:3001503	OXA-258	OXA-258	OXA beta-lactamase	cephalosporin;penam	antibiotic inactivation
+691	CCF55073.1	ARO:3003205	Erm(43)	Erm(43)	Erm 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic	antibiotic target alteration
+692	CCP42728.1	ARO:3003295	Mycobacterium tuberculosis gyrA conferring resistance to fluoroquinolones	Mycobacterium tuberculosis gyrA conferring resistance to fluoroquinolones	fluoroquinolone resistant gyrA	fluoroquinolone antibiotic;nybomycin	antibiotic target alteration
+693	CCP42991.1	ARO:3002525	AAC(2)-Ic	AAC(2)-Ic	AAC(2)	aminoglycoside antibiotic	antibiotic inactivation
+694	CCP43072.1	ARO:3003448	Mycobacterium tuberculosis iniA mutant conferring resistance to Ethambutol	Mycobacterium tuberculosis iniA mutant conferring resistance to Ethambutol	Ethambutol resistant iniA	polyamine antibiotic	antibiotic target alteration;antibiotic efflux
+695	CCP43073.1	ARO:3003451	Mycobacterium tuberculosis iniC mutant conferring resistance to ethambutol	Mycobacterium tuberculosis iniC mutant conferring resistance to ethambutol	Ethambutol resistant iniC	polyamine antibiotic	antibiotic target alteration;antibiotic efflux
+696	CCP44023.1	ARO:3003455	Mycobacterium tuberculosis embR mutant conferring resistance to ethambutol	Mycobacterium tuberculosis embR mutant conferring resistance to ethambutol	ethambutol resistant arabinosyltransferase	polyamine antibiotic	antibiotic target alteration
+697	CCP44244.1	ARO:3003393	Mycobacterium tuberculosis inhA mutations conferring resistance to isoniazid	Mycobacterium tuberculosis inhA mutations conferring resistance to isoniazid	antibiotic resistant inhA	isoniazid;triclosan	antibiotic target alteration
+698	CCP44620.1	ARO:3003461	Mycobacterium tuberculosis ndh mutant conferring resistance to isoniazid	Mycobacterium tuberculosis ndh with mutation conferring resistance to isoniazid	antibiotic resistant ndh	isoniazid	antibiotic target alteration
+699	CCP44758.1	ARO:3000392	Erm(37)	Erm(37)	Erm 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic	antibiotic target alteration
+700	CCP44816.1	ARO:3003394	Mycobacterium tuberculosis pncA mutations conferring resistance to pyrazinamide	Mycobacterium tuberculosis pncA mutations conferring resistance to pyrazinamide	pyrazinamide resistant pncA	pyrazinamide	antibiotic target alteration
+701	CCP45025.1	ARO:3003463	Mycobacterium tuberculosis kasA mutant conferring resistance to isoniazid	Mycobacterium tuberculosis kasA mutant conferring resistance to isoniazid	antibiotic resistant kasA	isoniazid;triclosan	antibiotic target alteration
+702	CCP46065.1	ARO:3000816	mtrA	mtrA	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;penam	antibiotic efflux
+703	CCP46182.1	ARO:3003035	mfpA	mfpA	quinolone resistance protein (qnr)	fluoroquinolone antibiotic	antibiotic target protection
+704	CCP46624.1	ARO:3003326	Mycobacterium tuberculosis embB mutations conferring resistance to ethambutol	Mycobacterium tuberculosis embB mutations conferring resistance to ethambutol	ethambutol resistant arabinosyltransferase	polyamine antibiotic	antibiotic target alteration
+705	CCP46748.1	ARO:3003470	Mycobacterium tuberculosis gidB mutation conferring resistance to streptomycin	Mycobacterium tuberculosis gidB mutation conferring resistance to streptomycin	antibiotic resistant gidB	aminoglycoside antibiotic	antibiotic target alteration
+706	CCQ22388.1	ARO:3000421	norB	norB	major facilitator superfamily (MFS) antibiotic efflux pump	fluoroquinolone antibiotic	antibiotic efflux
+707	CCW43444.1	ARO:3002255	CARB-16	CARB-16	CARB beta-lactamase	penam	antibiotic inactivation
+708	CDJ72593	ARO:3003889	Escherichia coli GlpT with mutation conferring resistance to fosfomycin	Escherichia coli GlpT with mutation conferring resistance to fosfomycin	GlpT	fosfomycin	antibiotic target alteration
+709	CDJ73208	ARO:3003890	Escherichia coli UhpT with mutation conferring resistance to fosfomycin	Escherichia coli UhpT with mutation conferring resistance to fosfomycin	UhpT	fosfomycin	antibiotic target alteration
+710	CDO13981.1	ARO:3003585	Klebsiella mutant PhoP conferring antibiotic resistance to colistin	Klebsiella mutant PhoP conferring antibiotic resistance to colistin	ATP-binding cassette (ABC) antibiotic efflux pump;pmr phosphoethanolamine transferase	macrolide antibiotic;peptide antibiotic	antibiotic target alteration;antibiotic efflux
+711	CDO61513.1	ARO:3003948	efrA	efrA	ATP-binding cassette (ABC) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;rifamycin antibiotic	antibiotic efflux
+712	CDO61516.1	ARO:3003949	efrB	efrB	ATP-binding cassette (ABC) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;rifamycin antibiotic	antibiotic efflux
+713	CUU67654.1	ARO:3003971	erm(44)	Erm(44)	Erm 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic	antibiotic target alteration
+714	CWV56762.1	ARO:3000198	FosX	FosX	fosfomycin thiol transferase	fosfomycin	antibiotic inactivation
+715	EEK14408.1	ARO:3003931	Capnocytophaga gingivalis gyrA conferring resistance to fluoroquinolones	Capnocytophaga gingivalis gyrA conferring resistance to fluoroquinolones	fluoroquinolone resistant gyrA	fluoroquinolone antibiotic;nybomycin	antibiotic target alteration
+716	EEL41021.1	ARO:3003072	Bacillus Cluster A intrinsic mph	Bacillus Cluster A intrinsic mph	macrolide phosphotransferase (MPH)	macrolide antibiotic	antibiotic inactivation
+717	EEX02086	ARO:3004089	ANT(3)-IIa	ANT(3)-IIa	ANT(3)	aminoglycoside antibiotic	antibiotic inactivation
+718	EFF04178.1	ARO:3000309	emrD	emrD	major facilitator superfamily (MFS) antibiotic efflux pump	N/A	antibiotic efflux
+719	ENU37733	ARO:3004091	ANT(3)-IIc	ANT(3)-IIc	ANT(3)	aminoglycoside antibiotic	antibiotic inactivation
+720	ENU91137	ARO:3004090	ANT(3)-IIb	ANT(3)-IIb	ANT(3)	aminoglycoside antibiotic	antibiotic inactivation
+721	ENV34035	ARO:3004087	APH(3)-IX	APH(3)-IX	APH(3)	aminoglycoside antibiotic	antibiotic inactivation
+722	EOD99669.1	ARO:3002875	dfrE	dfrE	trimethoprim resistant dihydrofolate reductase dfr	diaminopyrimidine antibiotic	antibiotic target replacement
+723	EOO80837.1	ARO:3003767	Bacillus Cluster B intrinsic mph	Bacillus Cluster B intrinsic mph	macrolide phosphotransferase (MPH)	macrolide antibiotic	antibiotic inactivation
+724	EPF73263	ARO:3004086	APH(3)-VIII	APH(3)-VIII	APH(3)	aminoglycoside antibiotic	antibiotic inactivation
+725	KIX81495.1	ARO:3002813	lmrB	lmrB	ATP-binding cassette (ABC) antibiotic efflux pump	lincosamide antibiotic	antibiotic efflux
+726	NP_052167.1	ARO:3002670	cat	cat	chloramphenicol acetyltransferase (CAT)	phenicol antibiotic	antibiotic inactivation
+727	NP_207972.1	ARO:3003964	hp1181	hp1181	major facilitator superfamily (MFS) antibiotic efflux pump	fluoroquinolone antibiotic;tetracycline antibiotic;nitroimidazole antibiotic	antibiotic efflux
+728	NP_207975.1	ARO:3003965	hp1184	hp1184	multidrug and toxic compound extrusion (MATE) transporter	N/A	antibiotic efflux
+729	NP_216424.1	ARO:3003392	Mycobacterium tuberculosis katG mutations conferring resistance to isoniazid	Mycobacterium tuberculosis katG mutations conferring resistance to isoniazid	isoniazid resistant katG	isoniazid	antibiotic target alteration
+730	NP_217362.1	ARO:3003955	efpA	efpA	major facilitator superfamily (MFS) antibiotic efflux pump	rifamycin antibiotic;isoniazid	antibiotic efflux
+731	NP_248846.1	ARO:3003679	TriA	TriA	resistance-nodulation-cell division (RND) antibiotic efflux pump	triclosan	antibiotic efflux
+732	NP_248847.1	ARO:3003680	TriB	TriB	resistance-nodulation-cell division (RND) antibiotic efflux pump	triclosan	antibiotic efflux
+733	NP_248848.1	ARO:3003681	TriC	TriC	resistance-nodulation-cell division (RND) antibiotic efflux pump	triclosan	antibiotic efflux
+734	NP_249115.1	ARO:3000506	mexR	MexR	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;monobactam;carbapenem;cephalosporin;cephamycin;penam;tetracycline antibiotic;peptide antibiotic;aminocoumarin antibiotic;diaminopyrimidine antibiotic;sulfonamide antibiotic;phenicol antibiotic;penem	antibiotic target alteration;antibiotic efflux
+735	NP_249115.1	ARO:3000506	mexR	MexR	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;monobactam;carbapenem;cephalosporin;cephamycin;penam;tetracycline antibiotic;peptide antibiotic;aminocoumarin antibiotic;diaminopyrimidine antibiotic;sulfonamide antibiotic;phenicol antibiotic;penem	antibiotic target alteration;antibiotic efflux
+736	NP_249116.1	ARO:3000377	MexA	MexA	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;monobactam;carbapenem;cephalosporin;cephamycin;penam;tetracycline antibiotic;peptide antibiotic;aminocoumarin antibiotic;diaminopyrimidine antibiotic;sulfonamide antibiotic;phenicol antibiotic;penem	antibiotic efflux
+737	NP_249118.1	ARO:3000379	OprM	OprM	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;monobactam;aminoglycoside antibiotic;carbapenem;cephalosporin;cephamycin;penam;tetracycline antibiotic;peptide antibiotic;acridine dye;aminocoumarin antibiotic;diaminopyrimidine antibiotic;sulfonamide antibiotic;phenicol antibiotic;penem	antibiotic efflux
+738	NP_249397.1	ARO:3002679	catB7	catB7	chloramphenicol acetyltransferase (CAT)	phenicol antibiotic	antibiotic inactivation
+739	NP_249649.1	ARO:3003686	Pseudomonas aeruginosa oprD with mutation conferring resistance to imipenem	Pseudomonas aeruginosa oprD with mutation conferring resistance to imipenem	Outer Membrane Porin (Opr)	monobactam;carbapenem;cephalosporin;cephamycin;penam;penem	reduced permeability to antibiotic
+740	NP_249820.1	ARO:3000149	fosA	FosA	fosfomycin thiol transferase	fosfomycin	antibiotic inactivation
+741	NP_249870.1	ARO:3003895	Pseudomonas mutant PhoP conferring resistance to colistin	Pseudomonas mutant PhoP conferring resistance to colistin	ATP-binding cassette (ABC) antibiotic efflux pump;pmr phosphoethanolamine transferase	macrolide antibiotic;peptide antibiotic	antibiotic target alteration;antibiotic efflux
+742	NP_249871.1	ARO:3003896	Pseudomonas mutant PhoQ conferring resistance to colistin	Pseudomonas mutant PhoQ conferring resistance to colistin	ATP-binding cassette (ABC) antibiotic efflux pump;pmr phosphoethanolamine transferase	macrolide antibiotic;peptide antibiotic	antibiotic target alteration;antibiotic efflux
+743	NP_250052.1	ARO:3004077	PmpM	PmpM	multidrug and toxic compound extrusion (MATE) transporter	N/A	antibiotic efflux
+744	NP_250710.1	ARO:3003709	mexZ	MexZ	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;aminoglycoside antibiotic;carbapenem;cephalosporin;cephamycin;penam;tetracycline antibiotic;acridine dye;phenicol antibiotic	antibiotic efflux
+745	NP_251182.1	ARO:3000814	MexT	MexT	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;diaminopyrimidine antibiotic;phenicol antibiotic	antibiotic efflux
+746	NP_251183.1	ARO:3000803	MexE	MexE	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;diaminopyrimidine antibiotic;phenicol antibiotic	antibiotic efflux
+747	NP_251184.1	ARO:3000804	MexF	MexF	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;diaminopyrimidine antibiotic;phenicol antibiotic	antibiotic efflux
+748	NP_251185.1	ARO:3000805	OprN	OprN	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;diaminopyrimidine antibiotic;phenicol antibiotic	antibiotic efflux
+749	NP_251215.1	ARO:3004072	OpmB	OpmB	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;monobactam;tetracycline antibiotic;aminocoumarin antibiotic	antibiotic efflux
+750	NP_251216.1	ARO:3004075	MuxC	MuxC	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;monobactam;tetracycline antibiotic;aminocoumarin antibiotic	antibiotic efflux
+751	NP_251217.1	ARO:3004074	MuxB	MuxB	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;monobactam;tetracycline antibiotic;aminocoumarin antibiotic	antibiotic efflux
+752	NP_251218.1	ARO:3004073	MuxA	MuxA	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;monobactam;tetracycline antibiotic;aminocoumarin antibiotic	antibiotic efflux
+753	NP_251858.1	ARO:3003684	Pseudomonas aeruginosa gyrA conferring resistance to fluoroquinolones	Pseudomonas aeruginosa gyrA conferring resistance to fluoroquinolones	fluoroquinolone resistant gyrA	fluoroquinolone antibiotic;nybomycin	antibiotic target alteration
+754	NP_252244	ARO:3002985	arnA	arnA	pmr phosphoethanolamine transferase	peptide antibiotic	antibiotic target alteration
+755	NP_252264.1	ARO:3000819	nalD	nalD	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;monobactam;carbapenem;cephalosporin;cephamycin;penam;tetracycline antibiotic;peptide antibiotic;aminocoumarin antibiotic;diaminopyrimidine antibiotic;sulfonamide antibiotic;phenicol antibiotic;penem	antibiotic efflux
+756	NP_252367.1	ARO:3003692	mexJ	MexJ	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;tetracycline antibiotic;triclosan	antibiotic efflux
+757	NP_252368.1	ARO:3003710	mexL	MexL	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;tetracycline antibiotic;triclosan	antibiotic efflux
+758	NP_252408.1	ARO:3004056	ArmR	ArmR	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;monobactam;carbapenem;cephalosporin;cephamycin;penam;tetracycline antibiotic;peptide antibiotic;aminocoumarin antibiotic;diaminopyrimidine antibiotic;sulfonamide antibiotic;phenicol antibiotic;penem	antibiotic efflux
+759	NP_252410.1	ARO:3000818	nalC	nalC	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;monobactam;carbapenem;cephalosporin;cephamycin;penam;tetracycline antibiotic;peptide antibiotic;aminocoumarin antibiotic;diaminopyrimidine antibiotic;sulfonamide antibiotic;phenicol antibiotic;penem	antibiotic efflux
+760	NP_252894.1	ARO:3000806	mexG	MexG	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;tetracycline antibiotic;acridine dye	antibiotic efflux
+761	NP_252895.1	ARO:3000807	mexH	MexH	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;tetracycline antibiotic;acridine dye	antibiotic efflux
+762	NP_252896.1	ARO:3000808	mexI	MexI	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;tetracycline antibiotic;acridine dye	antibiotic efflux
+763	NP_252897.1	ARO:3000809	opmD	OpmD	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;tetracycline antibiotic;acridine dye	antibiotic efflux
+764	NP_253005.1	ARO:3004069	MvaT	MvaT	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;diaminopyrimidine antibiotic;phenicol antibiotic	antibiotic efflux
+765	NP_253464.1	ARO:3003582	basR	basR	pmr phosphoethanolamine transferase	peptide antibiotic	antibiotic target alteration
+766	NP_253654.1	ARO:3003685	Pseudomonas aeruginosa parE conferring resistance to fluoroquinolones	Pseudomonas aeruginosa parE conferring resistance to fluoroquinolones	fluoroquinolone resistant parE	fluoroquinolone antibiotic	antibiotic target alteration
+767	NP_253661.1	ARO:3003682	OpmH	OpmH	resistance-nodulation-cell division (RND) antibiotic efflux pump	triclosan	antibiotic efflux
+768	NP_253677.1	ARO:3004038	Pseudomonas aeruginosa emrE	Pseudomonas aeruginosa emrE	small multidrug resistance (SMR) antibiotic efflux pump	aminoglycoside antibiotic	antibiotic efflux
+769	NP_273367.1	ARO:3003961	farA	farA	major facilitator superfamily (MFS) antibiotic efflux pump	antibacterial free fatty acids	antibiotic efflux
+770	NP_273368.1	ARO:3003962	farB	farB	major facilitator superfamily (MFS) antibiotic efflux pump	antibacterial free fatty acids	antibiotic efflux
+771	NP_273462.1	ARO:3003937	Neisseria meningititis PBP2 conferring resistance to beta-lactam	Neisseria meningititis PBP2 conferring resistance to beta-lactam	Penicillin-binding protein mutations conferring resistance to beta-lactam antibiotics	monobactam;carbapenem;cephalosporin;cephamycin;penam	antibiotic target alteration
+772	NP_274718.1	ARO:3000811	mtrD	mtrD	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;penam	antibiotic efflux
+773	NP_274719.1	ARO:3000810	mtrC	mtrC	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;penam	antibiotic efflux
+774	NP_309766.1	ARO:3000676	H-NS	H-NS	major facilitator superfamily (MFS) antibiotic efflux pump;resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;cephalosporin;cephamycin;penam;tetracycline antibiotic	antibiotic efflux
+775	NP_311275.1	ARO:3000832	evgA	evgA	major facilitator superfamily (MFS) antibiotic efflux pump;resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;penam;tetracycline antibiotic	antibiotic efflux
+776	NP_312864.1	ARO:3000830	cpxA	cpxA	resistance-nodulation-cell division (RND) antibiotic efflux pump	aminoglycoside antibiotic;aminocoumarin antibiotic	antibiotic efflux
+777	NP_312937.1	ARO:3003288	Escherichia coli rpoB mutants conferring resistance to rifampicin	Escherichia coli rpoB mutants conferring resistance to rifampicin	rifamycin-resistant beta-subunit of RNA polymerase (rpoB)	peptide antibiotic;rifamycin antibiotic	antibiotic target alteration;antibiotic target replacement
+778	NP_358469.1	ARO:3000822	pmrA	pmrA	major facilitator superfamily (MFS) antibiotic efflux pump	fluoroquinolone antibiotic	antibiotic efflux
+779	NP_358565.1	ARO:3000614	mefE	mefE	major facilitator superfamily (MFS) antibiotic efflux pump	macrolide antibiotic	antibiotic efflux
+780	NP_358969.1	ARO:3000025	patB	patB	ATP-binding cassette (ABC) antibiotic efflux pump	fluoroquinolone antibiotic	antibiotic efflux
+781	NP_359110.1	ARO:3003042	Streptococcus pneumoniae PBP2b conferring resistance to amoxicillin	Streptococcus pneumoniae PBP2b conferring resistance to amoxicillin	Penicillin-binding protein mutations conferring resistance to beta-lactam antibiotics	monobactam;carbapenem;cephalosporin;cephamycin;penam	antibiotic target alteration
+782	NP_414995.1	ARO:3000216	acrB	acrB	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;cephalosporin;glycylcycline;penam;tetracycline antibiotic;rifamycin antibiotic;phenicol antibiotic;triclosan	antibiotic efflux
+783	NP_414997.1	ARO:3003807	Escherichia coli acrR with mutation conferring multidrug antibiotic resistance	Escherichia coli acrR with mutation conferring multidrug antibiotic resistance	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;cephalosporin;glycylcycline;penam;tetracycline antibiotic;rifamycin antibiotic;phenicol antibiotic;triclosan	antibiotic target alteration;antibiotic efflux
+784	NP_415222.1	ARO:3003841	kdpE	kdpE	kdpDE	aminoglycoside antibiotic	antibiotic efflux
+785	NP_415372.1	ARO:3003751	Escherichia coli nfsA mutations conferring resistance to nitrofurantoin	Escherichia coli nfsA mutations conferring resistance to nitrofurantoin	antibiotic resistant nfsA	nitrofuran antibiotic	antibiotic target alteration
+786	NP_415434.1	ARO:3003950	msbA	msbA	ATP-binding cassette (ABC) antibiotic efflux pump	nitroimidazole antibiotic	antibiotic efflux
+787	NP_415449.1	ARO:3003390	Pseudomonas aeruginosa ompF with mutation	Escherichia coli ompF with mutation conferring resistance to beta-lactam antibiotics	General Bacterial Porin with reduced permeability to beta-lactams	monobactam;carbapenem;cephalosporin;cephamycin;penam;penem	reduced permeability to antibiotic
+788	NP_415611.1	ARO:3004049	antibiotic resistant fabG	Escherichia coli fabG mutations conferring resistance to triclosan	antibiotic resistance fabG	triclosan	antibiotic target alteration
+789	NP_415632.1	ARO:3003844	mfd	mfd	quinolone resistance protein (qnr)	fluoroquinolone antibiotic	antibiotic target protection
+790	NP_415804.1	ARO:3004045	antibiotic resistant fabI	Escherichia coli fabI mutations conferring resistance to isoniazid and triclosan	antibiotic resistant fabI	isoniazid;triclosan	antibiotic target alteration
+791	NP_416292.1	ARO:3002818	msrB	msrB	ATP-binding cassette (ABC) antibiotic efflux pump	macrolide antibiotic;streptogramin antibiotic	antibiotic efflux
+792	NP_416715.1	ARO:3003952	yojI	YojI	ATP-binding cassette (ABC) antibiotic efflux pump	peptide antibiotic	antibiotic efflux
+793	NP_417169.1	ARO:3000516	emrR	emrR	major facilitator superfamily (MFS) antibiotic efflux pump	fluoroquinolone antibiotic	antibiotic efflux
+794	NP_417544.5	ARO:3000024	patA	patA	ATP-binding cassette (ABC) antibiotic efflux pump	fluoroquinolone antibiotic	antibiotic efflux
+795	NP_418486.1	ARO:3003511	Escherichia coli soxS with mutation conferring antibiotic resistance	Escherichia coli soxS with mutation conferring antibiotic resistance	ATP-binding cassette (ABC) antibiotic efflux pump;major facilitator superfamily (MFS) antibiotic efflux pump;resistance-nodulation-cell division (RND) antibiotic efflux pump;General Bacterial Porin with reduced permeability to beta-lactams	fluoroquinolone antibiotic;monobactam;carbapenem;cephalosporin;glycylcycline;cephamycin;penam;tetracycline antibiotic;rifamycin antibiotic;phenicol antibiotic;triclosan;penem	antibiotic target alteration;antibiotic efflux;reduced permeability to antibiotic
+796	NP_459345.2	ARO:3000791	mdsC	mdsC	resistance-nodulation-cell division (RND) antibiotic efflux pump	monobactam;carbapenem;cephalosporin;cephamycin;penam;phenicol antibiotic;penem	antibiotic efflux
+797	NP_459346.1	ARO:3000790	mdsB	mdsB	resistance-nodulation-cell division (RND) antibiotic efflux pump	monobactam;carbapenem;cephalosporin;cephamycin;penam;phenicol antibiotic;penem	antibiotic efflux
+798	NP_459347.2	ARO:3000789	mdsA	mdsA	resistance-nodulation-cell division (RND) antibiotic efflux pump	monobactam;carbapenem;cephalosporin;cephamycin;penam;phenicol antibiotic;penem	antibiotic efflux
+799	NP_459349.1	ARO:3000504	golS	golS	resistance-nodulation-cell division (RND) antibiotic efflux pump	monobactam;carbapenem;cephalosporin;cephamycin;penam;phenicol antibiotic;penem	antibiotic efflux
+800	NP_460578.1	ARO:3002571	AAC(6)-Iaa	AAC(6)-Iaa	AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+801	NP_460903.1	ARO:3000826	sdiA	sdiA	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;cephalosporin;glycylcycline;penam;tetracycline antibiotic;rifamycin antibiotic;phenicol antibiotic;triclosan	antibiotic efflux
+802	NP_461214.1	ARO:3003926	Salmonella enterica gyrA conferring resistance to fluoroquinolones	Salmonella enterica gyrA conferring resistance to fluoroquinolones	triclosan resistant gyrA	triclosan	antibiotic target alteration
+803	NP_461214.1	ARO:3003926	Salmonella enterica gyrA conferring resistance to fluoroquinolones	Salmonella enterica gyrA conferring resistance to fluoroquinolones	fluoroquinolone resistant gyrA	fluoroquinolone antibiotic;nybomycin	antibiotic target alteration
+804	NP_462089.1	ARO:3003939	Salmonella enterica parC conferring resistance to fluoroquinolones	Salmonella enterica parC conferring resistance to fluoroquinolones	fluoroquinolone resistant parC	fluoroquinolone antibiotic	antibiotic target alteration
+805	NP_462096.1	ARO:3003317	Salmonella serovars parE conferring resistance to fluoroquinolones	Salmonella serovars parE conferring resistance to fluoroquinolones	fluoroquinolone resistant parE	fluoroquinolone antibiotic	antibiotic target alteration
+806	NP_465220	ARO:3003770	Listeria monocytogenes mprF	Listeria monocytogenes mprF	defensin resistant mprF	peptide antibiotic	antibiotic target alteration
+807	NP_627787	ARO:3002914	vanJ	vanJ	vanJ membrane protein	glycopeptide antibiotic	antibiotic target alteration
+808	NP_831795.1	ARO:3000172	FosB	FosB	fosfomycin thiol transferase	fosfomycin	antibiotic inactivation
+809	NP_848167.1	ARO:3002675	catB2	catB2	chloramphenicol acetyltransferase (CAT)	phenicol antibiotic	antibiotic inactivation
+810	NP_863168.1	ARO:3002670	cat	cat	chloramphenicol acetyltransferase (CAT)	phenicol antibiotic	antibiotic inactivation
+811	NP_863643.1	ARO:3002597	AAC(6)-Ie-APH(2)-Ia	AAC(6)-Ie-APH(2)-Ia	APH(2);AAC(6)	aminoglycoside antibiotic	antibiotic inactivation
+812	NP_899166.1	ARO:3003111	lsaB	lsaB	ATP-binding cassette (ABC) antibiotic efflux pump	lincosamide antibiotic;streptogramin antibiotic;pleuromutilin antibiotic	antibiotic efflux
+813	NP_899170.1	ARO:3000599	Erm(33)	Erm(33)	Erm 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic	antibiotic target alteration
+814	Q0SSM7	ARO:3003773	Clostridium perfringens mprF	Clostridium perfringens mprF	defensin resistant mprF	peptide antibiotic	antibiotic target alteration
+815	Q8DWT2	ARO:3003774	Streptococcus agalactiae mprF	Streptococcus agalactiae mprF	defensin resistant mprF	peptide antibiotic	antibiotic target alteration
+816	Q8FW76	ARO:3003772	Brucella suis mprF	Brucella suis mprF	defensin resistant mprF	peptide antibiotic	antibiotic target alteration
+817	SIP52035.1	ARO:3004054	Pseudomonas aeruginosa CpxR	Pseudomonas aeruginosa CpxR	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;monobactam;aminoglycoside antibiotic;carbapenem;cephalosporin;cephamycin;penam;tetracycline antibiotic;peptide antibiotic;aminocoumarin antibiotic;diaminopyrimidine antibiotic;sulfonamide antibiotic;phenicol antibiotic;penem	antibiotic efflux
+818	WP_000572405.1	ARO:3002644	APH(3)-IIa	APH(3)-IIa	APH(3)	aminoglycoside antibiotic	antibiotic inactivation
+819	WP_000725529.1	ARO:3001209	mecC	mecC	methicillin resistant PBP2	monobactam;carbapenem;cephalosporin;cephamycin;penam	antibiotic target replacement
+820	WP_001025093	ARO:3003323	Staphylococcus aureus pgsA mutations conferring resistance to daptomycin	Staphylococcus aureus pgsA mutations conferring resistance to daptomycin	daptomycin resistant pgsA	peptide antibiotic	antibiotic target alteration
+821	WP_002530866.1	ARO:3003974	Propionibacterium acnes gyrA conferring resistance to fluoroquinolones	Propionibacterium acnes gyrA conferring resistance to fluoroquinolones	fluoroquinolone resistant gyrA	fluoroquinolone antibiotic;nybomycin	antibiotic target alteration
+822	WP_004025678.1	ARO:3003305	Ureaplasma urealyticum  gyrB conferring resistance to fluoroquinolone	Ureaplasma urealyticum  gyrB conferring resistance to fluoroquinolone	fluoroquinolone resistant gyrB	fluoroquinolone antibiotic;aminocoumarin antibiotic	antibiotic target alteration
+823	WP_004746565.1	ARO:3003848	ADC-2	ADC-2	ADC beta-lactamase	cephalosporin	antibiotic inactivation
+824	WP_005768149.1	ARO:3003302	Bartonella bacilliformis gyrB conferring resistance to aminocoumarin	Bartonella bacilliformis gyrB conferring resistance to aminocoumarin	aminocoumarin resistant gyrB	aminocoumarin antibiotic	antibiotic target alteration
+825	WP_005813024.1	ARO:3003724	vanWI	vanWI	vanW;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+826	WP_009887863.1	ARO:3003357	Clostridium difficile EF-Tu mutants conferring resistance to elfamycin	Clostridium difficile EF-Tu mutants conferring resistance to elfamycin	elfamycin resistant EF-Tu	elfamycin antibiotic	antibiotic target alteration
+827	WP_010550189.1	ARO:3003071	mphE	mphE	macrolide phosphotransferase (MPH)	macrolide antibiotic	antibiotic inactivation
+828	WP_010891786.1	ARO:3003309	Ureaplasma urealyticum parC conferring resistance to fluoroquinolone	Ureaplasma urealyticum parC conferring resistance to fluoroquinolone	fluoroquinolone resistant parC;fluoroquinolone self resistant parC	fluoroquinolone antibiotic	antibiotic target alteration
+829	WP_011303797	ARO:3003731	fusD	fusD	fusidic acid inactivation enzyme	fusidic acid	antibiotic inactivation
+830	WP_011461302.1	ARO:3003726	vanSI	vanSI	vanS;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+831	WP_011461303	ARO:3003728	vanRI	vanRI	glycopeptide resistance gene cluster;vanR	glycopeptide antibiotic	antibiotic target alteration
+832	WP_011461306	ARO:3003727	vanKI	vanKI	glycopeptide resistance gene cluster;vanK	glycopeptide antibiotic	antibiotic target alteration
+833	WP_014065640.1	ARO:3003924	Haemophilus parainfluenzae gyrA conferring resistance to fluoroquinolones	Haemophilus parainfluenzae gyrA conferring resistance to fluoroquinolones	fluoroquinolone resistant gyrA	fluoroquinolone antibiotic;nybomycin	antibiotic target alteration
+834	WP_014550864.1	ARO:3003953	hmrM	hmrM	multidrug and toxic compound extrusion (MATE) transporter	fluoroquinolone antibiotic;acridine dye	antibiotic efflux
+835	WP_015735625.1	ARO:3003907	cipA	cipA	Cfr 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic;oxazolidinone antibiotic;phenicol antibiotic;pleuromutilin antibiotic	antibiotic target alteration
+836	WP_015943580.1	ARO:3003725	vanXI	vanXI	vanX;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+837	WP_024565805.1	ARO:3000579	BlaB beta-lactamase	Chryseobacterium meningosepticum BlaB	BlaB beta-lactamase	carbapenem;penam	antibiotic inactivation
+838	WP_041918279.1	ARO:3003925	Haemophilus parainfluenzae parC conferring resistance to fluoroquinolones	Haemophilus parainfluenzae parC conferring resistance to fluoroquinolones	fluoroquinolone resistant parC	fluoroquinolone antibiotic	antibiotic target alteration
+839	WP_042649345	ARO:3002191	MOX-9	MOX-9	MOX beta-lactamase	cephalosporin;cephamycin;penam	antibiotic inactivation
+840	WP_063860852	ARO:3003842	MUS-2 beta-lactamase	MUS-2	MUS beta-lactamase	carbapenem	antibiotic inactivation
+841	WP_063978071.1	ARO:3000862	sgm	sgm	16S rRNA methyltransferase (G1405)	aminoglycoside antibiotic	antibiotic target alteration
+842	XP_753111.1	ARO:3003942	abcA	abcA	ATP-binding cassette (ABC) antibiotic efflux pump	cephalosporin;penam;peptide antibiotic	antibiotic efflux
+843	YP_001086469.1	ARO:3003995	Clostridium difficile gyrA conferring resistance to fluoroquinolones	Clostridium difficile gyrA conferring resistance to fluoroquinolones	fluoroquinolone resistant gyrA	fluoroquinolone antibiotic;nybomycin	antibiotic target alteration
+844	YP_001245420.1	ARO:3000215	mecR1	mecR1	methicillin resistant PBP2	monobactam;carbapenem;cephalosporin;cephamycin;penam	antibiotic target replacement
+845	YP_001315192.1	ARO:3000347	ErmA	ErmA	Erm 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic	antibiotic target alteration
+846	YP_001332362.1	ARO:3000838	arlR	arlR	major facilitator superfamily (MFS) antibiotic efflux pump	fluoroquinolone antibiotic;acridine dye	antibiotic efflux
+847	YP_001440920.1	ARO:3000746	mepR	mepR	multidrug and toxic compound extrusion (MATE) transporter	glycylcycline;tetracycline antibiotic	antibiotic efflux
+848	YP_001693237.1	ARO:3003922	oqxA	oqxA	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;glycylcycline;tetracycline antibiotic;diaminopyrimidine antibiotic;nitrofuran antibiotic	antibiotic efflux
+849	YP_001693238	ARO:3003923	oqxB	oqxB	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;glycylcycline;tetracycline antibiotic;diaminopyrimidine antibiotic;nitrofuran antibiotic	antibiotic efflux
+850	YP_001816610.1	ARO:3000860	rmtB	rmtB	16S rRNA methyltransferase (G1405)	aminoglycoside antibiotic	antibiotic target alteration
+851	YP_002320475.1	ARO:3000780	adeI	adeI	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;lincosamide antibiotic;carbapenem;cephalosporin;tetracycline antibiotic;rifamycin antibiotic;diaminopyrimidine antibiotic;phenicol antibiotic;penem	antibiotic efflux
+852	YP_002343805.1	ARO:3000526	cmeR	cmeR	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;cephalosporin;fusidic acid	antibiotic efflux
+853	YP_002743273.1	ARO:3000616	mel	mel	ATP-binding cassette (ABC) antibiotic efflux pump	macrolide antibiotic;streptogramin antibiotic	antibiotic efflux
+854	YP_002773985.1	ARO:3002815	clbB	clbB	Cfr 23S ribosomal RNA methyltransferase	macrolide antibiotic;lincosamide antibiotic;streptogramin antibiotic;oxazolidinone antibiotic;phenicol antibiotic;pleuromutilin antibiotic	antibiotic target alteration
+855	YP_003281576.1	ARO:3000815	mgrA	mgrA	ATP-binding cassette (ABC) antibiotic efflux pump;major facilitator superfamily (MFS) antibiotic efflux pump	fluoroquinolone antibiotic;cephalosporin;penam;tetracycline antibiotic;peptide antibiotic;acridine dye	antibiotic efflux
+856	YP_003283625.1	ARO:3000178	tet(K)	tet(K)	major facilitator superfamily (MFS) antibiotic efflux pump	tetracycline antibiotic	antibiotic efflux
+857	YP_003971446	ARO:3003730	Bifidobacteria intrinsic ileS conferring resistance to mupirocin	Bifidobacterium ileS conferring resistance to mupirocin	antibiotic resistant isoleucyl-tRNA synthetase (ileS)	mupirocin	antibiotic target alteration
+858	YP_005226137.1	ARO:3003966	Klebsiella pneumoniae OmpK35	Klebsiella pneumoniae OmpK35	General Bacterial Porin with reduced permeability to beta-lactams	monobactam;carbapenem;cephalosporin;cephamycin;penam;penem	reduced permeability to antibiotic;resistance by absence
+859	YP_005228001.1	ARO:3003968	Klebsiella pneumoniae OmpK36	Klebsiella pneumoniae OmpK36	General Bacterial Porin with reduced permeability to beta-lactams	monobactam;carbapenem;cephalosporin;cephamycin;penam;penem	reduced permeability to antibiotic;resistance by absence
+860	YP_006374661.1	ARO:3003438	Enterococcus faecium EF-Tu mutants conferring resistance to GE2270A	Enterococcus faecium EF-Tu mutants conferring resistance to GE2270A	elfamycin resistant EF-Tu	elfamycin antibiotic	antibiotic target alteration
+861	YP_006938491.1	ARO:3003905	ANT(4)-Ib	ANT(4)-Ib	ANT(4)	aminoglycoside antibiotic	antibiotic inactivation
+862	YP_007503840.1	ARO:3000165	tet(A)	tet(A)	major facilitator superfamily (MFS) antibiotic efflux pump	glycylcycline;tetracycline antibiotic	antibiotic efflux
+863	YP_007503908.1	ARO:3003306	Morganella morganii gyrB conferring resistance to fluoroquinolone	Morganella morganii gyrB conferring resistance to fluoroquinolone	fluoroquinolone resistant gyrB	fluoroquinolone antibiotic;aminocoumarin antibiotic	antibiotic target alteration
+864	YP_007652797.1	ARO:3001205	determinant of bleomycin resistance	BRP(MBL)	Bleomycin resistant protein	glycopeptide antibiotic	antibiotic inactivation
+865	YP_008709794.1	ARO:3000251	msrA	msrA	ATP-binding cassette (ABC) antibiotic efflux pump	macrolide antibiotic;streptogramin antibiotic	antibiotic efflux
+866	YP_008997281.1	ARO:3002626	ANT(6)-Ia	ANT(6)-Ia	ANT(6)	aminoglycoside antibiotic	antibiotic inactivation
+867	YP_008997285.1	ARO:3000615	mefA	mefA	major facilitator superfamily (MFS) antibiotic efflux pump	macrolide antibiotic	antibiotic efflux
+868	YP_009077553.1	ARO:3002680	catB8	catB8	chloramphenicol acetyltransferase (CAT)	phenicol antibiotic	antibiotic inactivation
+869	YP_009081591.1	ARO:3002613	aadA13	aadA13	ANT(3)	aminoglycoside antibiotic	antibiotic inactivation
+870	YP_039482.1	ARO:3003301	Staphylococcus aureus gyrB conferring resistance to aminocoumarin	Staphylococcus aureus gyrB conferring resistance to aminocoumarin	aminocoumarin resistant gyrB	aminocoumarin antibiotic	antibiotic target alteration
+871	YP_039483.1	ARO:3003296	Staphylococcus aureus gyrA conferring resistance to fluoroquinolones	Staphylococcus aureus gyrA conferring resistance to fluoroquinolones	fluoroquinolone resistant gyrA	fluoroquinolone antibiotic;nybomycin	antibiotic target alteration
+872	YP_039996.1	ARO:3003285	Staphylococcus aureus rpoB mutants conferring resistance to rifampicin	Staphylococcus aureus rpoB mutants conferring resistance to rifampicin	daptomycin resistant beta-subunit of RNA polymerase (rpoB)	peptide antibiotic;rifamycin antibiotic	antibiotic target alteration
+873	YP_039996.1	ARO:3003285	Staphylococcus aureus rpoB mutants conferring resistance to rifampicin	Staphylococcus aureus rpoB mutants conferring resistance to rifampicin	rifamycin-resistant beta-subunit of RNA polymerase (rpoB)	peptide antibiotic;rifamycin antibiotic	antibiotic target alteration;antibiotic target replacement
+874	YP_039997.1	ARO:3003291	Staphylococcus aureus rpoC conferring resistance to daptomycin	Staphylococcus aureus rpoC conferring resistance to daptomycin	daptomycin resistant beta prime subunit of RNA polymerase (rpoC)	peptide antibiotic	antibiotic target alteration
+875	YP_040771.1	ARO:3003315	Staphylococcus aureus parE conferring resistance to fluoroquinolones	Staphylococcus aureus parE conferring resistance to fluoroquinolones	fluoroquinolone resistant parE	fluoroquinolone antibiotic	antibiotic target alteration
+876	YP_108403.1	ARO:3002982	amrA	amrA	resistance-nodulation-cell division (RND) antibiotic efflux pump	aminoglycoside antibiotic	antibiotic efflux
+877	YP_186749.1	ARO:3000489	sav1866	sav1866	ATP-binding cassette (ABC) antibiotic efflux pump	N/A	antibiotic efflux
+878	YP_207769.1	ARO:3003928	Neisseria gonorrhoeae gyrA conferring resistance to fluoroquinolones	Neisseria gonorrhoeae gyrA conferring resistance to fluoroquinolones	fluoroquinolone resistant gyrA	fluoroquinolone antibiotic;nybomycin	antibiotic target alteration
+879	YP_208330.1	ARO:3003929	Neisseria gonorrhoeae parC conferring resistance to fluoroquinolone	Neisseria gonorrhoeae parC conferring resistance to fluoroquinolone	fluoroquinolone resistant parC	fluoroquinolone antibiotic	antibiotic target alteration
+880	YP_208874.1	ARO:3003930	rpsJ	rpsJ	tetracycline-resistant ribosomal protection protein	tetracycline antibiotic	antibiotic target protection
+881	YP_489794.1	ARO:3000263	marA	marA	resistance-nodulation-cell division (RND) antibiotic efflux pump;General Bacterial Porin with reduced permeability to beta-lactams	fluoroquinolone antibiotic;monobactam;carbapenem;cephalosporin;glycylcycline;cephamycin;penam;tetracycline antibiotic;rifamycin antibiotic;phenicol antibiotic;triclosan;penem	antibiotic efflux;reduced permeability to antibiotic
+882	YP_490321.1	ARO:3000828	baeR	baeR	resistance-nodulation-cell division (RND) antibiotic efflux pump	aminoglycoside antibiotic;aminocoumarin antibiotic	antibiotic efflux
+883	YP_490697.1	ARO:3000491	acrD	acrD	resistance-nodulation-cell division (RND) antibiotic efflux pump	aminoglycoside antibiotic	antibiotic efflux
+884	YP_491362.1	ARO:3003386	Escherichia coli folP with mutation conferring resistance to sulfonamides	Escherichia coli folP with mutation conferring resistance to sulfonamides	sulfonamide resistant dihydropteroate synthase folP	sulfonamide antibiotic;sulfone antibiotic	antibiotic target alteration
+885	YP_491919.1	ARO:3000508	gadX	gadX	resistance-nodulation-cell division (RND) antibiotic efflux pump	macrolide antibiotic;fluoroquinolone antibiotic;penam	antibiotic efflux
+886	YP_499945.1	ARO:3000839	arlS	arlS	major facilitator superfamily (MFS) antibiotic efflux pump	fluoroquinolone antibiotic;acridine dye	antibiotic efflux
+887	YP_500802.1	ARO:3003074	Staphylococcus aureus cls conferring resistance to daptomycin	Staphylococcus aureus cls conferring resistance to daptomycin	daptomycin resistant cls	peptide antibiotic	antibiotic target alteration
+888	YP_724476.1	ARO:3003109	msrE	msrE	ATP-binding cassette (ABC) antibiotic efflux pump	macrolide antibiotic;streptogramin antibiotic	antibiotic efflux
+889	AAC68679.1	ARO:3001293	desR	desR	NA	NA	NA
+890	NP_253290.1	ARO:3000820	NfxB	NfxB	resistance-nodulation-cell division (RND) antibiotic efflux pump	"tetracycline antibiotic,Êphenicol antibiotic,Êdiaminopyrimidine antibiotic,Êaminocoumarin antibiotic,Êfluoroquinolone antibiotic,Êpenam,Êcephalosporin,Êmacrolide antibiotic"	antibiotic efflux
+891	AAO82019.1	ARO:3002916	vanV	vanV	vanV;glycopeptide resistance gene cluster	glycopeptide antibiotic	antibiotic target alteration
+892	AFK13827.1	ARO:3000825	robA	robA	resistance-nodulation-cell division (RND) antibiotic efflux pump	"tetracycline antibiotic,Êglycylcycline,Êphenicol antibiotic,Êrifamycin antibiotic,Êcephalosporin,Êpenam,Êfluoroquinolone antibiotic,Êtriclosan"	antibiotic efflux
+893	NP_414618.4	ARO:3003843	leuO	leuO	major facilitator superfamily (MFS) antibiotic efflux pump	"nucleoside antibiotic,Êacridine dye"	antibiotic efflux
+894	AAC76733.1	ARO:3001215	mdtL	mdtL	major facilitator superfamily (MFS) antibiotic efflux pump	"nucleoside antibiotic,Êacridine dye"	antibiotic efflux
+895	AAC12650.1	ARO:3001297	oleR	oleR	ole glycosyltransferase	macrolide antibiotic	antibiotic inactivation
+896	NP_417969.1	ARO:3003834	gadE	gadE	resistance-nodulation-cell division (RND) antibiotic efflux pump	"penam,Êfluoroquinolone antibiotic,Êmacrolide antibiotic"	antibiotic efflux
+897	AAC75138.1	ARO:3001330	mdtD	mdtD	resistance-nodulation-cell division (RND) antibiotic efflux pump	aminocoumarin antibiotic	antibiotic efflux
+898	ABA71726.1	ARO:3000575	vanU	vanU	glycopeptide resistance gene cluster;van ligase	glycopeptide antibiotic	antibiotic target alteration
