@@ -1,4 +1,4 @@
-ex specific differences in microbiome
+Sex specific differences in microbiome
 -------------
 Author of code: Trishla Sinha
 
