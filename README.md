@@ -1,6 +1,7 @@
 # Sex-differences-in-microbiome-resistome
 #Large metagenomic analysis regarding the sex differences in microbiome and resistome 
 
+[![DOI](https://zenodo.org/badge/140193191.svg)](https://zenodo.org/badge/latestdoi/140193191)
 
 Scripts used in: Analysis of 1135 gut metagenomes identifies sex-specific resistome profiles (in press), Sinha et al. . *Gut Microbes*. 2018. 
 DOI:10.1080/19490976.2018.1528822
